@@ -81,7 +81,7 @@ export async function initPublications(opts) {
 
     listEl.innerHTML = filtered.map(p => {
       const title = escapeHtml(p.title);
-      const authors = highlightSelf(escapeHtml(p.authors || ''));
+      const authors = escapeHtml(p.authors || '');
       const venue = escapeHtml(p.venue || '');
       const year = p.year || '';
       const cites = p.citations || 0;
@@ -105,15 +105,6 @@ export async function initPublications(opts) {
   yearSelectEl?.addEventListener('change', render);
   topicSelectEl?.addEventListener('change', render);
   render();
-}
-
-// Bold-highlights the author's own name (Feng Liu / F. Liu / F Liu) inside
-// an already-HTML-escaped author string.
-function highlightSelf(str) {
-  return str.replace(
-    /\b(Feng\s+Liu|F\.?\s+Liu)\b/g,
-    '<strong class="pub-author-self">$1</strong>'
-  );
 }
 
 function escapeHtml(s) {

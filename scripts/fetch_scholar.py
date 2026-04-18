@@ -48,16 +48,11 @@ def infer_topic(title: str, venue: str) -> str:
 
 
 def format_authors(authors) -> str:
-    """Normalize to comma-separated. Scholar emits 'A and B and C'; we prefer 'A, B, C'."""
     if not authors:
         return ""
     if isinstance(authors, list):
         return ", ".join(authors)
-    s = str(authors)
-    # " and " → ", " (case-insensitive, word-bounded)
-    import re as _re
-    s = _re.sub(r"\s+and\s+", ", ", s)
-    return s.strip()
+    return str(authors)
 
 
 def try_fetch():
