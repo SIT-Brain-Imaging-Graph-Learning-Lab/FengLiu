@@ -1,82 +1,1028 @@
 [
-  { "title": "Inference of Whole Brain Electrophysiological Networks", "authors": "Shihao Yang, Feng Liu", "venue": "NeurIPS", "year": 2025, "citations": 0, "topic": "neuroscience" },
-  { "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding", "authors": "Jun-En Ding, Feng Liu", "venue": "ICML", "year": 2025, "citations": 0, "topic": "neuroscience" },
-  { "title": "MedPlan: A Two-Stage RAG-Based System for Personalized Medical Plan Generation", "authors": "Hao Zhu, C.T. Dao, L. Wang, Z. Shuai, et al.", "venue": "ACL Industrial Track", "year": 2025, "citations": 29, "topic": "ai-health" },
-  { "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare", "authors": "Han, Feng Liu", "venue": "EMNLP Findings", "year": 2025, "citations": 0, "topic": "ai-health" },
-  { "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions", "authors": "Hao Zhu, Yaxi Luo, Feng Liu", "venue": "Cell Reports Medicine", "year": 2025, "citations": 0, "topic": "neuroscience" },
-  { "title": "Clinical Value of ChatGPT for Epilepsy Presurgical Decision-Making", "authors": "Yaxi Luo, Feng Liu", "venue": "Journal of Medical Internet Research", "year": 2025, "citations": 0, "topic": "ai-health" },
-  { "title": "BG-GAN: Generative AI Enable Representing Brain Structure-Function Connections", "authors": "Tong Zhou, Feng Liu", "venue": "IEEE Transactions on Consumer Electronics", "year": 2025, "citations": 0, "topic": "neuroscience" },
-  { "title": "mGNN-bw: Multi-scale Graph Neural Network Based on Biased Random Walk Path Aggregation", "authors": "Wenqiu Pan, Feng Liu", "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering", "year": 2025, "citations": 0, "topic": "neuroscience" },
-  { "title": "Generating grid multiscroll memristive Chua's circuit", "authors": "Qiang Lai, Feng Liu", "venue": "IEEE Transactions on Circuits and Systems I", "year": 2025, "citations": 0, "topic": "dynamics" },
-  { "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity", "authors": "Xin Zan, Feng Liu", "venue": "IEEE Transactions on Automation Science and Engineering", "year": 2025, "citations": 0, "topic": "ai-health" },
-  { "title": "XDL-ESI: Electrophysiological Sources Imaging via explainable deep learning", "authors": "Meng Jiao, Feng Liu", "venue": "NeuroImage", "year": 2024, "citations": 0, "topic": "neuroscience" },
-  { "title": "Spatial Craving Patterns in Marijuana Users", "authors": "Jun-En Ding, Feng Liu", "venue": "IEEE Journal of Biomedical and Health Informatics", "year": 2024, "citations": 0, "topic": "neuroscience" },
-  { "title": "Multi-Modal Electrophysiological Source Imaging with Attention Neural Networks", "authors": "Meng Jiao, Feng Liu", "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering", "year": 2024, "citations": 0, "topic": "neuroscience" },
-  { "title": "Multi-view Contrastive Learning for Unsupervised Domain Adaptation", "authors": "Sepehr Asgarian, Feng Liu", "venue": "IEEE Transactions on Instrumentation and Measurement", "year": 2024, "citations": 0, "topic": "ai-health" },
-  { "title": "M3T-LM: A Multi-Modal Multi-Task Learning Model", "authors": "Junde Chen, Feng Liu", "venue": "Computers in Biology and Medicine", "year": 2024, "citations": 0, "topic": "ai-health" },
-  { "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction", "authors": "Jun-En Ding, Feng Liu", "venue": "Scientific Reports", "year": 2024, "citations": 0, "topic": "ai-health" },
-  { "title": "Deep Attention Networks with Multi-Temporal Information Fusion", "authors": "Meng Jiao, Feng Liu", "venue": "IEEE Open Journal of Engineering in Medicine and Biology", "year": 2024, "citations": 0, "topic": "neuroscience" },
-  { "title": "Development and validation of time-to-event models to predict metastatic recurrence", "authors": "Guihong Wan, Feng Liu", "venue": "Journal of the American Academy of Dermatology", "year": 2024, "citations": 0, "topic": "ai-health" },
-  { "title": "Parkinson Disease Classification Using Contrastive Graph Cross-View Learning", "authors": "Jun-En Ding, Feng Liu", "venue": "ISBI", "year": 2024, "citations": 0, "topic": "neuroscience" },
-  { "title": "Detection of High-Frequency Oscillations from Intracranial EEG Data", "authors": "Zeyu Gu, Feng Liu", "venue": "IEEE EMBC", "year": 2024, "citations": 0, "topic": "neuroscience" },
-  { "title": "EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction", "authors": "Liao, Feng Liu", "venue": "Conference on Information and Knowledge Management", "year": 2024, "citations": 0, "topic": "ai-health" },
-  { "title": "MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling", "authors": "Phan, Feng Liu", "venue": "Conference on Information and Knowledge Management", "year": 2024, "citations": 0, "topic": "ai-health" },
-  { "title": "Reduced-Order Identification Methods: Hierarchical Algorithm or Variable Elimination", "authors": "Jing Chen, Feng Liu", "venue": "Automatica", "year": 2024, "citations": 0, "topic": "systems" },
-  { "title": "Application of uniform experimental design theory", "authors": "Lianyu Cheng, Feng Liu", "venue": "Expert Systems with Applications", "year": 2024, "citations": 0, "topic": "optimization" },
-  { "title": "Rejuvenating Classical Brain Electrophysiology Source Localization Methods", "authors": "Shihao Yang, Feng Liu", "venue": "Brain Informatics", "year": 2024, "citations": 0, "topic": "neuroscience" },
-  { "title": "Adaptive Neural Decision Tree for EEG-Based Emotion Recognition", "authors": "Yongqiang Zheng, J. Ding, Feng Liu, D. Wang", "venue": "Information Sciences", "year": 2023, "citations": 85, "topic": "neuroscience" },
-  { "title": "The SAITS epidemic spreading model and its combinational optimal suppression control", "authors": "Wei Ding, Feng Liu", "venue": "Mathematical Biosciences and Engineering", "year": 2023, "citations": 0, "topic": "systems" },
-  { "title": "GCSTI: A Single-Cell Pseudotemporal Trajectory Inference Method", "authors": "Wenhui Tu, Feng Liu", "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics", "year": 2023, "citations": 0, "topic": "ai-health" },
-  { "title": "Prediction of early-stage melanoma recurrence using clinical and histopathologic features", "authors": "Guihong Wan, Feng Liu", "venue": "Nature npj Precision Oncology", "year": 2023, "citations": 0, "topic": "ai-health" },
-  { "title": "The impact of stage-related features in melanoma recurrence prediction", "authors": "Guihong Wan, Feng Liu", "venue": "JAAD International", "year": 2023, "citations": 0, "topic": "ai-health" },
-  { "title": "Prediction of cannabis addictive patients with graph neural networks", "authors": "Shulin Wen, Feng Liu", "venue": "International Conference on Brain Informatics", "year": 2023, "citations": 0, "topic": "neuroscience" },
-  { "title": "Rejuvenating classical source localization methods", "authors": "Shihao Yang, Feng Liu", "venue": "International Conference on Brain Informatics", "year": 2023, "citations": 0, "topic": "neuroscience" },
-  { "title": "MMDF-ESI: Multi-modal Deep Fusion of EEG and MEG", "authors": "Meng Jiao, Feng Liu", "venue": "International Conference on Brain Informatics", "year": 2023, "citations": 0, "topic": "neuroscience" },
-  { "title": "Preference Detection Harnessing Low-Cost Portable Electroencephalography", "authors": "SongWon Bae, Feng Liu", "venue": "9th International Engineering Systems Symposium (CESUN)", "year": 2023, "citations": 0, "topic": "neuroscience" },
-  { "title": "Electrophysiological Brain Source Imaging via Combinatorial Search", "authors": "Guihong Wan, Feng Liu", "venue": "AAAI", "year": 2023, "citations": 0, "topic": "neuroscience" },
-  { "title": "Analysis and realization of new memristive chaotic system", "authors": "Lai, Feng Liu", "venue": "Journal of Vibration Engineering & Technologies", "year": 2023, "citations": 0, "topic": "dynamics" },
-  { "title": "A Graph Fourier Transform Based Bidirectional LSTM Neural Network", "authors": "Meng Jiao, Feng Liu", "venue": "Frontiers in Neuroscience", "year": 2022, "citations": 0, "topic": "neuroscience" },
-  { "title": "Wind farm layout optimization using adaptive evolutionary algorithm with Monte Carlo Tree Search", "authors": "Fangyun Bai, Xinglong Ju, S. Wang, W. Zhou, Feng Liu", "venue": "Energy Conversion and Management", "year": 2022, "citations": 98, "topic": "energy" },
-  { "title": "Extended electrophysiological source imaging with spatial graph filters", "authors": "Feng Liu, et al.", "venue": "MICCAI", "year": 2022, "citations": 0, "topic": "neuroscience" },
-  { "title": "EEG Source Imaging using GANs with Deep Image Prior", "authors": "Yaxin Guo, Feng Liu", "venue": "IEEE EMBC", "year": 2022, "citations": 0, "topic": "neuroscience" },
-  { "title": "Advances in chaotification and chaos-based applications", "authors": "Qiang Lai, Feng Liu", "venue": "Frontiers in Physics", "year": 2022, "citations": 0, "topic": "dynamics" },
-  { "title": "Secure and Privacy-Preserving Formation Control for Networked Marine Surface Vehicles", "authors": "Chang-Duo Liang, Feng Liu", "venue": "IEEE Transactions on Vehicular Technology", "year": 2022, "citations": 0, "topic": "systems" },
-  { "title": "More intelligent and robust estimation of battery state-of-charge", "authors": "Meng Jiao, D. Wang, Y. Yang, Feng Liu", "venue": "Engineering Applications of Artificial Intelligence", "year": 2022, "citations": 89, "topic": "ai-health" },
-  { "title": "Multiple Line Outage Detection in Power Systems by Sparse Recovery", "authors": "Li Ding, Feng Liu", "venue": "IEEE Transactions on Smart Grid", "year": 2022, "citations": 0, "topic": "energy" },
-  { "title": "Fast knot optimization for multivariate adaptive regression splines", "authors": "Xinglong Ju, Feng Liu", "venue": "Expert Systems with Applications", "year": 2022, "citations": 0, "topic": "optimization" },
-  { "title": "The auto-correlation function aided sparse support matrix machine", "authors": "Yuxiang Li, Feng Liu", "venue": "IEEE Transactions on Circuits and Systems II", "year": 2022, "citations": 0, "topic": "optimization" },
-  { "title": "Joint optimization of wind farm layout considering optimal control", "authors": "K. Chen, J. Lin, Y. Qiu, Feng Liu, Y. Song", "venue": "Renewable Energy", "year": 2022, "citations": 27, "topic": "energy" },
-  { "title": "Tracking performance limitations of networked control systems", "authors": "Chaoyang Chen, Feng Liu, L. Wu, H. Yan, W. Gui, H.E. Stanley", "venue": "IEEE Transactions on Automatic Control", "year": 2021, "citations": 26, "topic": "systems" },
-  { "title": "Predefined-time formation tracking control of networked marine surface vehicles", "authors": "Chang-Duo Liang, M.F. Ge, Z.W. Liu, G. Ling, Feng Liu", "venue": "Control Engineering Practice", "year": 2021, "citations": 123, "topic": "systems" },
-  { "title": "Inference of Brain States under Anesthesia with Meta Learning", "authors": "Qihang Wang, Feng Liu", "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering", "year": 2021, "citations": 0, "topic": "neuroscience" },
-  { "title": "Probabilistic Structure Learning for EEG/MEG Source Imaging", "authors": "Feng Liu, et al.", "venue": "IEEE Transactions on Medical Imaging", "year": 2021, "citations": 36, "topic": "neuroscience" },
-  { "title": "Age-related EEG power reductions cannot be explained by changes", "authors": "Mingjian He, Feng Liu", "venue": "Frontiers in Aging Neuroscience", "year": 2021, "citations": 0, "topic": "neuroscience" },
-  { "title": "Blood Pressure States Transition Inference Based on Multi-State Markov Model", "authors": "Jingmei Yang, Feng Liu, B. Wang, C. Chen, T. Church, L. Dukes, J.O. Smith", "venue": "IEEE Journal of Biomedical and Health Informatics", "year": 2021, "citations": 26, "topic": "ai-health" },
-  { "title": "Risk Prediction for Multiple Chronic Conditions among Working Population", "authors": "Jingmei Yang, Feng Liu", "venue": "IEEE Open Journal of Engineering in Medicine and Biology", "year": 2021, "citations": 0, "topic": "ai-health" },
-  { "title": "An Optimization Framework to Study the Balance Between Expected Fatalities due to COVID-19", "authors": "Victoria Chen, Feng Liu", "venue": "IEEE Transactions on Automation Science and Engineering", "year": 2021, "citations": 0, "topic": "optimization" },
-  { "title": "Global optimization on non-convex two-way interaction truncated linear MARS", "authors": "Xinglong Ju, J.M. Rosenberger, V.C.P. Chen, Feng Liu", "venue": "Information Sciences", "year": 2021, "citations": 31, "topic": "optimization" },
-  { "title": "Hierarchical predefined-time control of teleoperation systems", "authors": "Xu, Feng Liu", "venue": "International Journal of Robust and Nonlinear Control", "year": 2021, "citations": 0, "topic": "systems" },
-  { "title": "Wind farm macro-siting optimization with insightful bi-criteria identification", "authors": "Feng Liu, et al.", "venue": "Energy Conversion and Management", "year": 2020, "citations": 0, "topic": "energy" },
-  { "title": "Common spatial pattern reformulated for regularizations in brain-computer interfaces", "authors": "Boyu Wang, C.M. Wong, Z. Kang, Feng Liu, et al.", "venue": "IEEE Transactions on Cybernetics", "year": 2020, "citations": 82, "topic": "neuroscience" },
-  { "title": "Efficient Approximate Dynamic Programming with Design and Analysis", "authors": "Ying Chen, Feng Liu", "venue": "Computers & Operations Research", "year": 2020, "citations": 0, "topic": "optimization" },
-  { "title": "An Extremely Simple Chaotic System with Infinitely Many Coexisting Attractors", "authors": "Qiang Lai, P.D.K. Kuate, Feng Liu, H.H.C. Iu", "venue": "IEEE Transactions on Circuits and Systems II", "year": 2019, "citations": 184, "topic": "dynamics" },
-  { "title": "Wind Farm Layout Optimization using Self-Informed Genetic Algorithm with Information Guided Exploitation", "authors": "Xinglong Ju, Feng Liu", "venue": "Applied Energy", "year": 2019, "citations": 127, "topic": "energy" },
-  { "title": "Wind Farm Layout Optimization based on Support Vector Regression Guided Genetic Algorithm", "authors": "Xinglong Ju, Feng Liu, L. Wang, W.J. Lee", "venue": "Energy Conversion and Management", "year": 2019, "citations": 102, "topic": "energy" },
-  { "title": "Sparse Multi-task Inverse Covariance Estimation for Connectivity Analysis", "authors": "Feng Liu, et al.", "venue": "IEEE/EMBS Conference on Neural Engineering (NER)", "year": 2019, "citations": 0, "topic": "neuroscience" },
-  { "title": "Knot Optimization for Multivariate Adaptive Regression Splines", "authors": "Xinglong Ju, Feng Liu", "venue": "IISE Annual Conference", "year": 2019, "citations": 0, "topic": "optimization" },
-  { "title": "Dynamic Analysis, Circuit Realization, Control Design and Image Encryption of an Extended Lü System with Coexisting Attractors", "authors": "Qiang Lai, B. Norouzi, Feng Liu", "venue": "Chaos, Solitons & Fractals", "year": 2018, "citations": 167, "topic": "dynamics" },
-  { "title": "Estimating Latent Brain Sources with Low-Rank Representation", "authors": "Feng Liu, et al.", "venue": "International Conference on Brain Informatics", "year": 2018, "citations": 0, "topic": "neuroscience" },
-  { "title": "Construction of Sparse Weighted Directed Network (SWDN)", "authors": "Rahil Hosseini, Feng Liu", "venue": "International Conference on Brain Informatics", "year": 2018, "citations": 0, "topic": "neuroscience" },
-  { "title": "Separate block-based parameter estimation method for Hammerstein systems", "authors": "Shuo Zhang, Feng Liu", "venue": "Royal Society Open Science", "year": 2018, "citations": 0, "topic": "systems" },
-  { "title": "A novel adaptive genetic algorithm for wind farm layout optimization", "authors": "Feng Liu, Zhifang Wang", "venue": "North American Power Symposium (NAPS)", "year": 2017, "citations": 0, "topic": "energy" },
-  { "title": "Electrical load forecasting using RBF neural network", "authors": "Feng Liu, Zhifang Wang", "venue": "IEEE Global Conference on Signal and Information Processing (GlobalSIP)", "year": 2017, "citations": 0, "topic": "energy" },
-  { "title": "Graph Regularized EEG Source Imaging with in-Class Consistency and Out-Class Discrimination", "authors": "Feng Liu, J. Rosenberger, Y. Lou, R. Hosseini, J. Su, S. Wang", "venue": "IEEE Transactions on Big Data", "year": 2017, "citations": 32, "topic": "neuroscience" },
-  { "title": "Supervised EEG Source Imaging with Graph Regularization in Transformed Domain", "authors": "Feng Liu, et al.", "venue": "International Conference on Brain Informatics", "year": 2017, "citations": 0, "topic": "neuroscience" },
-  { "title": "A Sparse Dictionary Learning Framework", "authors": "Feng Liu, et al.", "venue": "AAAI", "year": 2017, "citations": 0, "topic": "neuroscience" },
-  { "title": "Supervised Discriminative EEG Brain Source Imaging with Graph Regularization", "authors": "Feng Liu, et al.", "venue": "MICCAI", "year": 2017, "citations": 0, "topic": "neuroscience" },
-  { "title": "EEG Source Imaging based on Spatial and Temporal Graph Structures", "authors": "Jing Qin, Feng Liu", "venue": "IEEE IPTA", "year": 2017, "citations": 0, "topic": "neuroscience" },
-  { "title": "Multi-AGV path planning with double-path constraints by using an improved genetic algorithm", "authors": "Zhihui Han, Dongqing Wang, Feng Liu, Z. Zhao", "venue": "PLoS One", "year": 2017, "citations": 113, "topic": "optimization" },
-  { "title": "Prediction of Seizure Spread Network via Sparse Representations", "authors": "Feng Liu, et al.", "venue": "International Conference on Brain Informatics & Health", "year": 2016, "citations": 0, "topic": "neuroscience" },
-  { "title": "A New Chaotic Hopfield Neural Network and Its Synthesis via Parameter Switchings", "authors": "Juan Li, Feng Liu, Z.H. Guan, T. Li", "venue": "Neurocomputing", "year": 2013, "citations": 32, "topic": "dynamics" },
-  { "title": "Chaotification of Complex Networks with Impulsive Control", "authors": "Zhi-Hong Guan, Feng Liu, J. Li, Y.W. Wang", "venue": "Chaos: An Interdisciplinary Journal", "year": 2012, "citations": 27, "topic": "dynamics" }
+  {
+    "title": "Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis",
+    "authors": "",
+    "venue": "IEEE Conference on Activity and Behavior Computing, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:d6JCS5z0ckYC"
+  },
+  {
+    "title": "NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2602.13473, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:hrkNWuzUpWwC"
+  },
+  {
+    "title": "Advances in LLM Reasoning Enable Flexibility in Clinical Problem-Solving",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2601.11866, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:2_BaaiyHPJIC"
+  },
+  {
+    "title": "NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning",
+    "authors": "",
+    "venue": "bioRxiv, 2026.03. 07.707799, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WgvcDLhf7hwC"
+  },
+  {
+    "title": "MedEvalArena: A Self-Generated, Peer-Judged Benchmark for Medical Reasoning",
+    "authors": "",
+    "venue": "medRxiv, 2026.01. 27.26344905, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j6V8Syvup0UC"
+  },
+  {
+    "title": "Knowledge graph representation of the mappings between seizure semiology and epileptogenic zones",
+    "authors": "",
+    "venue": "Scientific Report, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:0Kh4an1R61UC"
+  },
+  {
+    "title": "Limitations of Large Language Models in Clinical Problem-Solving Arising from Inflexible Reasoning",
+    "authors": "",
+    "venue": "Scientific Report, 2025",
+    "year": 2025,
+    "citations": 59,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
+  },
+  {
+    "title": "MedPlan: A Two-Stage RAG-Based System for Personalized Medical Plan Generation",
+    "authors": "",
+    "venue": "ACL 2025, 2025",
+    "year": 2025,
+    "citations": 29,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:qhW0HyKmSusC"
+  },
+  {
+    "title": "Generating grid multiscroll memristive chua’s circuit and its predefined-time synchronization for secure communication",
+    "authors": "",
+    "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2025",
+    "year": 2025,
+    "citations": 13,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:p-HGrieyzrAC"
+  },
+  {
+    "title": "Enhancing Multimodal Medical Image Classification through Cross-Graph Modal Contrastive Learning",
+    "authors": "",
+    "venue": "Expert Systems with Applications, 2025",
+    "year": 2025,
+    "citations": 10,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
+  },
+  {
+    "title": "The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation",
+    "authors": "",
+    "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
+    "year": 2025,
+    "citations": 8,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
+  },
+  {
+    "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
+    "authors": "",
+    "venue": "Cell Reports Medicine, 2025",
+    "year": 2025,
+    "citations": 7,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
+  },
+  {
+    "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
+    "authors": "",
+    "venue": "Health Information Science and Systems, 2025",
+    "year": 2025,
+    "citations": 7,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
+  },
+  {
+    "title": "BG-GAN: Generative AI Enable Representing Brain Structure-Function Connections for Alzheimer’s Disease",
+    "authors": "",
+    "venue": "IEEE Transactions on Consumer Electronics, 2025",
+    "year": 2025,
+    "citations": 6,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:vkuYBMKU6wEC"
+  },
+  {
+    "title": "mGNN-bw: Multi-scale Graph Neural Network Based on Biased Random Walk Path Aggregation for ASD Diagnosis",
+    "authors": "",
+    "venue": "IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2025",
+    "year": 2025,
+    "citations": 5,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:anDooRL1HQEC"
+  },
+  {
+    "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2510.16658, 2025",
+    "year": 2025,
+    "citations": 4,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:i8eIfGGcn98C"
+  },
+  {
+    "title": "Flexible and Explainable Graph Analysis for EEG-based Alzheimer's Disease Classification",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2504.01329, 2025",
+    "year": 2025,
+    "citations": 4,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:T_0gP6tLVL0C"
+  },
+  {
+    "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
+    "authors": "",
+    "venue": "EMNLP, 2025",
+    "year": 2025,
+    "citations": 3,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
+  },
+  {
+    "title": "Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG",
+    "authors": "",
+    "venue": "NeurIPS, 2025",
+    "year": 2025,
+    "citations": 2,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:71d7Y1FijdoC"
+  },
+  {
+    "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
+    "authors": "",
+    "venue": "IEEE Transactions on Automation Science and Engineering, 2025",
+    "year": 2025,
+    "citations": 2,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:wgKq3sYidysC"
+  },
+  {
+    "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Biomarker Recognition in EEG Brain Networks",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2510.11917, 2025",
+    "year": 2025,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:zfsRRabFVBUC"
+  },
+  {
+    "title": "RPRO: Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning",
+    "authors": "",
+    "venue": "NeurIPS 2025 Workshop GenAI4Health, 2025",
+    "year": 2025,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8rLWgkbgOXQC"
+  },
+  {
+    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
+    "authors": "",
+    "venue": "IEEE Transactions on Cybernetics, 2025",
+    "year": 2025,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
+  },
+  {
+    "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders",
+    "authors": "",
+    "venue": "ICML, 2025",
+    "year": 2025,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:xlVdBZVQT58C"
+  },
+  {
+    "title": "Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records",
+    "authors": "",
+    "venue": "Scientific Reports 14 (1), 20774, 2024",
+    "year": 2024,
+    "citations": 38,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
+  },
+  {
+    "title": "MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models",
+    "authors": "",
+    "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
+    "year": 2024,
+    "citations": 22,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
+  },
+  {
+    "title": "Multi-source variational mode transfer learning for enhanced PM2. 5 concentration forecasting at data-limited monitoring stations",
+    "authors": "",
+    "venue": "Expert Systems with Applications 238, 121714, 2024",
+    "year": 2024,
+    "citations": 21,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CLhUwle04lcC"
+  },
+  {
+    "title": "Multi-modal electrophysiological source imaging with attention neural networks based on deep fusion of EEG and MEG",
+    "authors": "",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 2492-2502, 2024",
+    "year": 2024,
+    "citations": 19,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:_n8fIOMweQoC"
+  },
+  {
+    "title": "Application of uniform experimental design theory to multi-strategy improved sparrow search algorithm for UAV path planning",
+    "authors": "",
+    "venue": "Expert Systems with Applications 255, 124849, 2024",
+    "year": 2024,
+    "citations": 16,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Pqt4MY__2vwC"
+  },
+  {
+    "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
+    "authors": "",
+    "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
+    "year": 2024,
+    "citations": 15,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
+  },
+  {
+    "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and IEEG",
+    "authors": "",
+    "venue": "NeuroImage 299, 120802, 2024",
+    "year": 2024,
+    "citations": 14,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
+  },
+  {
+    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
+    "authors": "",
+    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
+    "year": 2024,
+    "citations": 11,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
+  },
+  {
+    "title": "EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists",
+    "authors": "",
+    "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
+    "year": 2024,
+    "citations": 7,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
+  },
+  {
+    "title": "Deep attention networks with multi-temporal information fusion for sleep apnea detection",
+    "authors": "",
+    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 5, 792-802, 2024",
+    "year": 2024,
+    "citations": 7,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
+  },
+  {
+    "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2403.04785, 2024",
+    "year": 2024,
+    "citations": 7,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CMPXdcK5v8EC"
+  },
+  {
+    "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
+    "authors": "",
+    "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
+    "year": 2024,
+    "citations": 7,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
+  },
+  {
+    "title": "Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma",
+    "authors": "",
+    "venue": "Journal of the American Academy of Dermatology 90 (2), 288-298, 2024",
+    "year": 2024,
+    "citations": 7,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:w0odbtu79TwC"
+  },
+  {
+    "title": "Rejuvenating classical brain electrophysiology source localization methods with spatial graph Fourier filters for source extents estimation",
+    "authors": "",
+    "venue": "Brain Informatics 11 (1), 8, 2024",
+    "year": 2024,
+    "citations": 6,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DPO9WFcz7UcC"
+  },
+  {
+    "title": "Spatial Craving Patterns in Marijuana Users: Insights from fMRI Brain Connectivity Analysis with High-Order Graph Attention Neural Networks",
+    "authors": "",
+    "venue": "IEEE Journal of Biomedical and Health Informatics, 2024",
+    "year": 2024,
+    "citations": 5,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:r56sNq9gaawC"
+  },
+  {
+    "title": "EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models",
+    "authors": "",
+    "venue": "Conference on Information and Knowledge Management (Demo paper), 2024",
+    "year": 2024,
+    "citations": 3,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:h9G0ZmjYpDoC"
+  },
+  {
+    "title": "Empowering Sleep Health: Unleashing the Potential of Artificial Intelligence and Data Science in Sleep Disorders",
+    "authors": "",
+    "venue": "Handbook of AI and Data Sciences for Sleep Disorders, 1-44, 2024",
+    "year": 2024,
+    "citations": 2,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WHBERAHVdrEC"
+  },
+  {
+    "title": "Detection of High-Frequency Oscillations from Intracranial EEG Data with Switching State Space Model",
+    "authors": "",
+    "venue": "46th Annual International Conference of the IEEE EMBC, 2024",
+    "year": 2024,
+    "citations": 2,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:uQVPmWFBlwUC"
+  },
+  {
+    "title": "Electrophysiological Brain Network Estimation with Simultaneous Scalp EEG and Intracranial EEG: Inference Algorithm and Applications",
+    "authors": "",
+    "venue": "https://dx.doi.org/10.13140/RG.2.2.32479.68007, 2024",
+    "year": 2024,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:cx97FdCJQX8C"
+  },
+  {
+    "title": "Identification of Craving Maps among Marijuana Users via the Analysis of Functional Brain Networks with High-Order Attention Graph Neural Networks",
+    "authors": "",
+    "venue": "CoRR, 2024",
+    "year": 2024,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8O4vDxvErlEC"
+  },
+  {
+    "title": "Empowering Sleep Health: Unleashing the Potential of Artificial Intelligence",
+    "authors": "",
+    "venue": "Handbook of AI and Data Sciences for Sleep Disorders 84, 1, 2024",
+    "year": 2024,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lSLsV1MU4ZUC"
+  },
+  {
+    "title": "Adaptive neural decision tree for EEG based emotion recognition",
+    "authors": "",
+    "venue": "Information Sciences 643, 119160, 2023",
+    "year": 2023,
+    "citations": 85,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:k8to_Y4Q4_EC"
+  },
+  {
+    "title": "Influence of melanoma type on incidence and downstream implications of cutaneous immune-related adverse events in the setting of immune checkpoint inhibitor therapy",
+    "authors": "",
+    "venue": "Journal of the American Academy of Dermatology 88 (6), 1308-1316, 2023",
+    "year": 2023,
+    "citations": 15,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:6Zm5LS9gQ5UC"
+  },
+  {
+    "title": "Electrophysiological Brain Source Imaging via Combinatorial Search with Provable Optimality",
+    "authors": "",
+    "venue": "AAAI, 2023",
+    "year": 2023,
+    "citations": 8,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Oj-SLI0tZTcC"
+  },
+  {
+    "title": "Analysis and Realization of New Memristive Chaotic System with Line Equilibria and Coexisting Attractors",
+    "authors": "",
+    "venue": "Journal of Vibration Engineering & Technologies 11 (7), 3493-3505, 2023",
+    "year": 2023,
+    "citations": 7,
+    "topic": "dynamics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:EsrhoZGmrkoC"
+  },
+  {
+    "title": "Brain Informatics: 16th International Conference, BI 2023, Hoboken, NJ, USA (ISSN: 0302-9743)",
+    "authors": "",
+    "venue": "Springer 13974, 1-479, 2023",
+    "year": 2023,
+    "citations": 3,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:KqW5X_olkfQC"
+  },
+  {
+    "title": "MMDF-ESI: Multi-Modal Deep Fusion of EEG and MEG for Brain Source Imaging",
+    "authors": "",
+    "venue": "Brain Informatics. BI 2023. Lecture Notes in Computer Science 13974, 2023",
+    "year": 2023,
+    "citations": 3,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:F9HO9s0W2bwC"
+  },
+  {
+    "title": "Prediction of Cannabis Addictive Patients with Graph Neural Networks",
+    "authors": "",
+    "venue": "Brain Informatics. BI 2023. Lecture Notes in Computer Science 13974, 2023",
+    "year": 2023,
+    "citations": 3,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yKzB5RS27GgC"
+  },
+  {
+    "title": "The impact of stage-related features in melanoma recurrence prediction: A machine learning approach",
+    "authors": "",
+    "venue": "JAAD International 10, 28-30, 2023",
+    "year": 2023,
+    "citations": 3,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lRPiJ3GhvscC"
+  },
+  {
+    "title": "1273 Effect of systemic immunosuppression timing on overall survival among immune checkpoint inhibitor recipients",
+    "authors": "",
+    "venue": "Journal for ImmunoTherapy of Cancer 11 (Suppl 1), 2023",
+    "year": 2023,
+    "citations": 1,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:qYOp8iumCsAC"
+  },
+  {
+    "title": "Rejuvenating Classical Source Localization Methods with Spatial Graph Filters",
+    "authors": "",
+    "venue": "Brain Informatics. BI 2023. Lecture Notes in Computer Science 13974, 2023",
+    "year": 2023,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:mJbmKSuM8toC"
+  },
+  {
+    "title": "217 Time-to-event machine learning prediction of metastatic recurrence of localized melanoma",
+    "authors": "",
+    "venue": "Journal of Investigative Dermatology 143 (5), S37, 2023",
+    "year": 2023,
+    "citations": 1,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ZqLB7dQ1iF4C"
+  },
+  {
+    "title": "The SAITS epidemic spreading model and its combinational optimal suppression control",
+    "authors": "",
+    "venue": "Mathematical Biosciences and Engineering 20 (2), 3342-3354, 2023",
+    "year": 2023,
+    "citations": 1,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nroGzMJTTpEC"
+  },
+  {
+    "title": "Preference Detection Harnessing Low-Cost Portable Electroencephalography and Facial Behavior Markers",
+    "authors": "",
+    "venue": "9TH INTERNATIONAL ENGINEERING SYSTEMS SYMPOSIUM (CESUN 2023), 2023",
+    "year": 2023,
+    "citations": 0,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:1Aeql8wG3wEC"
+  },
+  {
+    "title": "GCSTI: A Single-Cell Pseudotemporal Trajectory Inference Method Based on Graph Compression",
+    "authors": "",
+    "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 20 (5 …, 2023",
+    "year": 2023,
+    "citations": 0,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:QeguYG95ZbAC"
+  },
+  {
+    "title": "Wind farm layout optimization using adaptive evolutionary algorithm with Monte Carlo Tree Search reinforcement learning",
+    "authors": "",
+    "venue": "Energy Conversion and Management 252, 115047, 2022",
+    "year": 2022,
+    "citations": 98,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:cOfwuRB03ygC"
+  },
+  {
+    "title": "The auto-correlation function aided sparse support matrix machine for EEG-based fatigue detection",
+    "authors": "",
+    "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2022",
+    "year": 2022,
+    "citations": 55,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:FQ36aI_S1AEC"
+  },
+  {
+    "title": "Prediction of early-stage melanoma recurrence using clinical and histopathologic features",
+    "authors": "",
+    "venue": "NPJ precision oncology 6 (1), 79, 2022",
+    "year": 2022,
+    "citations": 50,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IExZWSxeYXUC"
+  },
+  {
+    "title": "Inference of Brain States under Anesthesia with Meta Learning Based Deep Learning Models",
+    "authors": "",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022",
+    "year": 2022,
+    "citations": 48,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-vzq6BoH5oUC"
+  },
+  {
+    "title": "A graph fourier transform based bidirectional long short-term memory neural network for electrophysiological source imaging",
+    "authors": "",
+    "venue": "Frontiers in neuroscience 16, 867466, 2022",
+    "year": 2022,
+    "citations": 40,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:uEM9VtRl8xsC"
+  },
+  {
+    "title": "Joint optimization of wind farm layout considering optimal control",
+    "authors": "",
+    "venue": "Renewable Energy 182, 787-796, 2022",
+    "year": 2022,
+    "citations": 27,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8JTMrWI6FdcC"
+  },
+  {
+    "title": "Extended electrophysiological source imaging with spatial graph filters",
+    "authors": "",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted …, 2022",
+    "year": 2022,
+    "citations": 8,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:kvJssbFybhEC"
+  },
+  {
+    "title": "Graph Learning for Brain Imaging",
+    "authors": "",
+    "venue": "Frontiers in Neuroscience, 1412, 2022",
+    "year": 2022,
+    "citations": 7,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PZE8UkGerEcC"
+  },
+  {
+    "title": "EEG Source Imaging using GANs with Deep Image Prior",
+    "authors": "",
+    "venue": "44th Annual International Conference of the IEEE EMBC, 2022",
+    "year": 2022,
+    "citations": 3,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:jKT558fuBk8C"
+  },
+  {
+    "title": "Advances in chaotification and chaos-based applications",
+    "authors": "",
+    "venue": "Frontiers in Physics 10, 996825, 2022",
+    "year": 2022,
+    "citations": 2,
+    "topic": "dynamics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:jq04SsiGh3QC"
+  },
+  {
+    "title": "649 CNN-based histopathology image analysis for early-stage melanoma recurrence",
+    "authors": "",
+    "venue": "Journal of Investigative Dermatology 142 (8), S112, 2022",
+    "year": 2022,
+    "citations": 2,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:5F1dSjz1ScoC"
+  },
+  {
+    "title": "Prediction of early-stage melanoma recurrence using clinical and histopathologic features. NPJ Precis",
+    "authors": "",
+    "venue": "Oncol 6 (1), 79, 2022",
+    "year": 2022,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sYWwZaPVD1oC"
+  },
+  {
+    "title": "Brain Source Reconstruction Solution Quality Assessment with Spatial Graph Frequency Features",
+    "authors": "",
+    "venue": "International Conference on Brain Informatics, 175-183, 2022",
+    "year": 2022,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:5bfplxN71z4C"
+  },
+  {
+    "title": "Predefined-time formation tracking control of networked marine surface vehicles",
+    "authors": "",
+    "venue": "Control Engineering Practice 107, 104682, 2021",
+    "year": 2021,
+    "citations": 123,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:pxXbYLTb8EgC"
+  },
+  {
+    "title": "More intelligent and robust estimation of battery state-of-charge with an improved regularized extreme learning machine",
+    "authors": "",
+    "venue": "Engineering Applications of Artificial Intelligence 104, 104407, 2021",
+    "year": 2021,
+    "citations": 89,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:KIRwYnRZzWQC"
+  },
+  {
+    "title": "Secure and privacy-preserving formation control for networked marine surface vehicles with sampled-data interactions",
+    "authors": "",
+    "venue": "IEEE Transactions on Vehicular Technology 71 (2), 1307-1318, 2021",
+    "year": 2021,
+    "citations": 51,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:U3qCfcK-7lkC"
+  },
+  {
+    "title": "Fast Knot Optimization for Multivariate Adaptive Regression Splines Using Hill Climbing Methods",
+    "authors": "",
+    "venue": "Expert Systems with Applications 171, 114565, 2021",
+    "year": 2021,
+    "citations": 51,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:RJNGbXJAtMsC"
+  },
+  {
+    "title": "Probabilistic Structure Learning for EEG/MEG Source Imaging With Hierarchical Graph Priors",
+    "authors": "",
+    "venue": "IEEE Transactions on Medical Imaging 40 (1), 321-334, 2021",
+    "year": 2021,
+    "citations": 36,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:vofGIMt6cyEC"
+  },
+  {
+    "title": "Global optimization on non-convex two-way interaction truncated linear multivariate adaptive regression splines using mixed integer quadratic programming",
+    "authors": "",
+    "venue": "Information Sciences 597, 38-52, 2021",
+    "year": 2021,
+    "citations": 31,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:YGhAHpnIhDoC"
+  },
+  {
+    "title": "Age-Related EEG Power Reductions Cannot Be Explained by Changes of the Conductivity Distribution in the Head Due to Brain Atrophy",
+    "authors": "",
+    "venue": "Frontiers in Aging Neuroscience, 26, 2021",
+    "year": 2021,
+    "citations": 24,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8gBurD7jEYQC"
+  },
+  {
+    "title": "Prediction for the risk of multiple chronic conditions among working population in the united states with machine learning models",
+    "authors": "",
+    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 2, 291-298, 2021",
+    "year": 2021,
+    "citations": 23,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:9VeumLvkZSQC"
+  },
+  {
+    "title": "Multiple Line Outage Detection in Power Systems by Sparse Recovery Using Transient Data",
+    "authors": "",
+    "venue": "IEEE Transactions on Smart Grid 12 (4), 3448-3457, 2021",
+    "year": 2021,
+    "citations": 11,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:TeJ9juy8vcMC"
+  },
+  {
+    "title": "Hierarchical predefined‐time control of teleoperation systems with state and communication constraints",
+    "authors": "",
+    "venue": "International Journal of Robust and Nonlinear Control 31 (18), 9652-9675, 2021",
+    "year": 2021,
+    "citations": 10,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:JdL-Xu2nR38C"
+  },
+  {
+    "title": "An Optimization Framework to Study the Balance Between Expected Fatalities due to COVID-19 and the Reopening of US Communities",
+    "authors": "",
+    "venue": "IEEE Transactions on Automation Science and Engineering, 2021",
+    "year": 2021,
+    "citations": 7,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:1_W9tMSvGuwC"
+  },
+  {
+    "title": "Featured Cover.",
+    "authors": "",
+    "venue": "International Journal of Robust & Nonlinear Control 31 (18), 2021",
+    "year": 2021,
+    "citations": 0,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aCwMkEyfDy8C"
+  },
+  {
+    "title": "Optimizing Wind Farm Efficiency with Self-Adaptivity Mechanism in Evolutionary Algorithm",
+    "authors": "",
+    "venue": "NERCCS 2021: Fourth Northeast Regional Conference on Complex Systems, 83, 2021",
+    "year": 2021,
+    "citations": 0,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:qCaWouos7ogC"
+  },
+  {
+    "title": "Common spatial pattern reformulated for regularizations in brain-computer interfaces",
+    "authors": "",
+    "venue": "IEEE Transactions on Cybernetics, 2020",
+    "year": 2020,
+    "citations": 82,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j7XjBeKFbTsC"
+  },
+  {
+    "title": "Wind farm macro-siting optimization with insightful bi-criteria identification and relocation mechanism in genetic algorithm",
+    "authors": "",
+    "venue": "Energy Conversion and Management 217, 112964, 2020",
+    "year": 2020,
+    "citations": 58,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:L7vk9XBBNxgC"
+  },
+  {
+    "title": "Blood Pressure States Transition Inference Based on Multi-State Markov Model",
+    "authors": "",
+    "venue": "IEEE Journal of Biomedical and Health Informatics 25 (1), 237-246, 2020",
+    "year": 2020,
+    "citations": 26,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:o9ULDYDKYbIC"
+  },
+  {
+    "title": "Tracking performance limitations of networked control systems with repeated zeros and poles",
+    "authors": "",
+    "venue": "IEEE Transactions on Automatic Control 66 (4), 1902-1909, 2020",
+    "year": 2020,
+    "citations": 26,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:TiIbgCYny7sC"
+  },
+  {
+    "title": "Efficient approximate dynamic programming based on design and analysis of computer experiments for infinite-horizon optimization",
+    "authors": "",
+    "venue": "Computers & Operations Research 124, 105032, 2020",
+    "year": 2020,
+    "citations": 11,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:1paMEeroeoQC"
+  },
+  {
+    "title": "Global optimization using mixed integer quadratic programming on non-convex two-way interaction truncated linear multivariate adaptive regression splines",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2006.15707, 2020",
+    "year": 2020,
+    "citations": 1,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:mgoTDWlsYNUC"
+  },
+  {
+    "title": "An extremely simple chaotic system with infinitely many coexisting attractors",
+    "authors": "",
+    "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs 67 (6), 1129-1133, 2019",
+    "year": 2019,
+    "citations": 184,
+    "topic": "dynamics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yCjxvIMm6_oC"
+  },
+  {
+    "title": "Wind farm layout optimization using self-informed genetic algorithm with information guided exploitation",
+    "authors": "",
+    "venue": "Applied Energy 248, 429-445, 2019",
+    "year": 2019,
+    "citations": 127,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
+  },
+  {
+    "title": "Wind farm layout optimization based on support vector regression guided genetic algorithm with consideration of participation among landowners",
+    "authors": "",
+    "venue": "Energy Conversion and Management 196, 1267-1281, 2019",
+    "year": 2019,
+    "citations": 102,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:urP0JZOBBUsC"
+  },
+  {
+    "title": "Sparse Multi-task Inverse Covariance Estimation for Connectivity Analysis in EEG Source Space",
+    "authors": "",
+    "venue": "9th International IEEE EMBS Conference on Neural Engineering, 2019",
+    "year": 2019,
+    "citations": 8,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:oynPyU19kbsC"
+  },
+  {
+    "title": "Knot Optimization for Multivariate Adaptive Regression Splines",
+    "authors": "",
+    "venue": "IISE Annual Conference 2019, 2019",
+    "year": 2019,
+    "citations": 2,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:4oJvMfeQlr8C"
+  },
+  {
+    "title": "Electroencephalographic Assessment of Sedation after Infant Spinal Anesthesia: A Multi-center Pilot Study",
+    "authors": "",
+    "venue": "",
+    "year": 2019,
+    "citations": 0,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Cvh0bltMcLgC"
+  },
+  {
+    "title": "Dynamic analysis, circuit realization, control design and image encryption application of an extended Lü system with coexisting attractors",
+    "authors": "",
+    "venue": "Chaos, Solitons & Fractals 114, 230-245, 2018",
+    "year": 2018,
+    "citations": 167,
+    "topic": "dynamics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:It0W0vAlS5QC"
+  },
+  {
+    "title": "Separate block based parameter estimation method for Hammerstein systems",
+    "authors": "",
+    "venue": "Royal Society Open Science 5, 172194, 2018",
+    "year": 2018,
+    "citations": 21,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:iKswqCX-FLkC"
+  },
+  {
+    "title": "Estimating latent brain sources with low-rank representation and graph regularization",
+    "authors": "",
+    "venue": "International Conference on Brain Informatics, 304-316, 2018",
+    "year": 2018,
+    "citations": 12,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:vD2iS2Kej30C"
+  },
+  {
+    "title": "Task-related eeg source localization via graph regularized low-rank representation model",
+    "authors": "",
+    "venue": "bioRxiv, 246579, 2018",
+    "year": 2018,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:e0LTWoPxLYMC"
+  },
+  {
+    "title": "Construction of Sparse Weighted Directed Network (SWDN) from the Multivariate Time-Series",
+    "authors": "",
+    "venue": "International Conference on Brain Informatics, 270-281, 2018",
+    "year": 2018,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:XtJa11BXPS4C"
+  },
+  {
+    "title": "Multi-AGV path planning with double-path constraints by using an improved genetic algorithm",
+    "authors": "",
+    "venue": "PloS one 12 (7), e0181747, 2017",
+    "year": 2017,
+    "citations": 113,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IHkkN1K1AlAC"
+  },
+  {
+    "title": "Graph regularized EEG source imaging with in-class consistency and out-class discrimination",
+    "authors": "",
+    "venue": "IEEE Transactions on Big Data 3 (4), 378-391, 2017",
+    "year": 2017,
+    "citations": 32,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:u0Mu_IsstPMC"
+  },
+  {
+    "title": "A sparse dictionary learning framework to discover discriminative source activations in EEG brain mapping",
+    "authors": "",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 31 (1), 2017",
+    "year": 2017,
+    "citations": 21,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:zdX0sdgBH_kC"
+  },
+  {
+    "title": "EEG source imaging based on spatial and temporal graph structures",
+    "authors": "",
+    "venue": "2017 Seventh International Conference on Image Processing Theory, Tools and …, 2017",
+    "year": 2017,
+    "citations": 16,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:htyGaKyDgHMC"
+  },
+  {
+    "title": "Supervised discriminative EEG brain source imaging with graph regularization",
+    "authors": "",
+    "venue": "MICCAI, 495-504, 2017",
+    "year": 2017,
+    "citations": 8,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:4E1Y8I9HL1wC"
+  },
+  {
+    "title": "A novel adaptive genetic algorithm for wind farm layout optimization",
+    "authors": "",
+    "venue": "2017 North American Power Symposium (NAPS), 1-6, 2017",
+    "year": 2017,
+    "citations": 2,
+    "topic": "optimization",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:dFKc6_kCK1wC"
+  },
+  {
+    "title": "Supervised EEG Source Imaging with Graph Regularization in Transformed Domain",
+    "authors": "",
+    "venue": "International Conference on Brain Informatics, 59-71, 2017",
+    "year": 2017,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yZoBfgUKqwcC"
+  },
+  {
+    "title": "A supervised sparse learning framework to solve EEG inverse problem for discriminative activations pattern",
+    "authors": "",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 31 (1), 2017",
+    "year": 2017,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ybfzIt2tCtgC"
+  },
+  {
+    "title": "Prediction of seizure spread network via sparse representations of overcomplete dictionaries",
+    "authors": "",
+    "venue": "International Conference on Brain and Health Informatics, 262-273, 2016",
+    "year": 2016,
+    "citations": 7,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:I9gX6wnfuA8C"
+  },
+  {
+    "title": "A new chaotic Hopfield neural network and its synthesis via parameter switchings",
+    "authors": "",
+    "venue": "Neurocomputing 117, 33-39, 2013",
+    "year": 2013,
+    "citations": 32,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IT1MJ6E3JesC"
+  },
+  {
+    "title": "Electric load forecasting using parallel RBF neural network",
+    "authors": "",
+    "venue": "2013 IEEE Global Conference on Signal and Information Processing, 531-534, 2013",
+    "year": 2013,
+    "citations": 9,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:HqhvjgTjE9cC"
+  },
+  {
+    "title": "Chaotification of complex networks with impulsive control",
+    "authors": "",
+    "venue": "Chaos: An Interdisciplinary Journal of Nonlinear Science 22 (2), 2012",
+    "year": 2012,
+    "citations": 27,
+    "topic": "dynamics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:B2rIPIGFPLEC"
+  }
 ]
