@@ -755,6 +755,11 @@
   line-height: 1.55;
 }
 .pub-item__venue { color: var(--fg-2); }
+.pub-author-self {
+  color: var(--fg-0);
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
 .pub-item__cites {
   font-family: var(--font-mono);
   font-size: 0.7rem;
