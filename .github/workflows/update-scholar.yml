@@ -1,0 +1,48 @@
+name: Sync Google Scholar
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # every day at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch Google Scholar
+        id: fetch
+        continue-on-error: true
+        run: python scripts/fetch_scholar.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet -- assets/data/publications.json assets/data/scholar-meta.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git --no-pager diff --stat -- assets/data/
+          fi
+
+      - name: Commit & push
+        if: steps.diff.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(scholar): monthly sync ${{ github.run_id }}"
+          file_pattern: "assets/data/publications.json assets/data/scholar-meta.json"
+          commit_user_name: scholar-sync-bot
+          commit_user_email: scholar-sync-bot@users.noreply.github.com

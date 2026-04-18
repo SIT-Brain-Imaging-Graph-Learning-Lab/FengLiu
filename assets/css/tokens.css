@@ -1,0 +1,52 @@
+:root {
+  /* Surfaces — pure black with flat Apple-style grays */
+  --bg-0: #000000;
+  --bg-1: #0A0A0A;
+  --bg-2: #111113;
+  --bg-3: #1C1C1E;
+
+  /* Text — Apple-style high contrast */
+  --fg-0: #F5F5F7;   /* primary */
+  --fg-1: #C7C7CC;   /* secondary — deliberately bright for readability */
+  --fg-2: #8E8E93;   /* tertiary, fine print only */
+
+  /* Accent — minimal: white is the hover/active color, nothing else */
+  --accent: #FFFFFF;
+  --accent-subtle: #E5E5EA;
+
+  /* Heritage (Stevens crest only — not used as UI accent) */
+  --crimson: #9D1535;
+  --gold-crest: #B8A36A;
+
+  /* Hairlines */
+  --hairline:        rgba(245, 245, 247, 0.08);
+  --hairline-strong: rgba(245, 245, 247, 0.18);
+
+  /* Layout */
+  --max: 1200px;
+  --gutter: clamp(1.25rem, 4vw, 3rem);
+  --radius-sm: 6px;
+  --radius: 10px;
+  --radius-lg: 16px;
+
+  /* Type scale */
+  --fs-display: clamp(4rem, 10vw, 8.5rem);
+  --fs-h1:      clamp(2.25rem, 4.5vw, 3.75rem);
+  --fs-h2:      clamp(1.4rem, 2.2vw, 1.8rem);
+  --fs-h3:      1.125rem;
+  --fs-body:    1.0625rem;
+  --fs-small:   0.875rem;
+  --fs-mono:    0.75rem;
+
+  /* Motion */
+  --ease: cubic-bezier(.22,.61,.36,1);
+  --ease-out: cubic-bezier(.16,1,.3,1);
+  --dur-fast: 220ms;
+  --dur: 480ms;
+  --dur-slow: 900ms;
+
+  /* Fonts */
+  --font-serif: 'Fraunces', 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans:  'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', system-ui, sans-serif;
+  --font-mono:  'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
+}

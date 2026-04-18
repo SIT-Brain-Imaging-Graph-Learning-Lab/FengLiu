@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "role": "Assistant Professor",
+    "department": "Department of Systems Engineering",
+    "school": "Charles V. Schaefer, Jr. School of Engineering and Science",
+    "institution": "Stevens Institute of Technology",
+    "name": "Feng Liu",
+    "motto": "At the intersection of systems, signals, and the mind.",
+    "school_short": "Schaefer School of Engineering and Science",
+    "contacts": [
+      { "icon": "mail",    "label": "Email",          "value": "fliu22@stevens.edu",                                     "href": "mailto:fliu22@stevens.edu" },
+      { "icon": "scholar", "label": "Google Scholar", "value": "Google Scholar",                                         "href": "https://scholar.google.com/citations?user=HVZdbX0AAAAJ&hl=en" },
+      { "icon": "stevens", "label": "Stevens Profile","value": "Stevens Profile",                                        "href": "https://www.stevens.edu/profile/fliu22" },
+      { "icon": "lab",     "label": "AI Epilepsy Lab","value": "AI Epilepsy Lab",                                        "href": "https://aiepilepsy.stevens.edu/" },
+      { "icon": "pin",     "label": "Office",         "value": "North Building 206" },
+      { "icon": "phone",   "label": "Phone",          "value": "(201) 216-8009",                                         "href": "tel:+12012168009" }
+    ]
+  },
+  "about": {
+    "heading": "About",
+    "bio": [
+      "Dr. Feng Liu is an Assistant Professor of Systems Engineering at Stevens Institute of Technology. Dr. Liu was a Postdoctoral Research Fellow at Harvard Medical School from 2018 to 2020. In the meantime, Dr. Liu was research affiliate at Picower Institute for Learning and Memory at MIT and Martinos Center for Biomedical Imaging at MGH. Dr. Liu received his Ph.D. degree from the University of Texas at Arlington in Industrial Engineering in 2018 with a focus on machine learning for healthcare.",
+      "His research interests include brain network analysis, brain imaging, inverse problem, health informatics, and dynamic system. Dr. Liu is the winner of the Best Paper Award at 11th International Conference of Brain Informatics in 2018, and the Best Paper Award of INFORMS Data Mining Society in 2019.",
+      "Dr. Liu's research group has received multiple grants from NIH (NINDS, NIBIB, BRAIN Initiative), DoD and New Jersey Health Foundation as PI, MPI, or Co-I."
+    ]
+  },
+  "interests": {
+    "heading": "Research Interests",
+    "intro": "Working at the boundary of engineering, mathematics, and neuroscience — decoding the brain through signals, networks, and dynamics, and translating those models into clinical decision support.",
+    "primary": [
+      { "label": "AI for Healthcare", "brief": "Deep models & LLMs for clinical decision support." },
+      { "label": "Brain Imaging",     "brief": "EEG / MEG / fMRI source imaging and inverse problems." },
+      { "label": "Brain Networks",    "brief": "Functional and structural connectivity analysis." },
+      { "label": "Epilepsy",          "brief": "Seizure semiology, source localization, epileptogenic zone." },
+      { "label": "Addiction",         "brief": "Craving biomarkers from resting-state imaging." },
+      { "label": "Aging Brain",       "brief": "Trajectories of the aging connectome." },
+      { "label": "Optimization",      "brief": "Knot selection, combinatorial search, industrial ops." },
+      { "label": "Chaotic Theory",    "brief": "Nonlinear dynamics and coexisting attractors." }
+    ]
+  },
+  "journey": {
+    "heading": "Education & Experience",
+    "education": [
+      { "year": "2020", "label": "Postdoctoral Training — Computational Neuroscience", "institution": "Harvard Medical School" },
+      { "year": "2018", "label": "Ph.D., Industrial Engineering", "institution": "University of Texas at Arlington" }
+    ],
+    "experience": [
+      { "year": "2018 — 2020", "role": "Postdoctoral Researcher",           "institution": "MGH / Harvard Medical School",           "location": "Boston, MA" },
+      { "year": "2018 — 2020", "role": "Research Affiliate",                "institution": "Massachusetts Institute of Technology",  "location": "Cambridge, MA" },
+      { "year": "2015 — 2016", "role": "Data Science / Operations Intern", "institution": "CSX Transportation",                     "location": "Jacksonville, FL" }
+    ]
+  },
+  "publications": {
+    "heading": "Publications",
+    "intro": "Auto-synced from Google Scholar. Filter by year or search by keyword, authors, or venue."
+  },
+  "recognition": {
+    "heading": "Teaching & Recognition",
+    "courses": {
+      "label": "Courses Taught",
+      "items": [
+        { "code": "EM 612", "title": "Project Management of Complex Systems", "semesters": "Fall 2020 · Spring 2021 · Summer 2021 · Fall 2021" },
+        { "code": "EM 600", "title": "Engineering Economics and Cost Analysis", "semesters": "Spring 2021" },
+        { "code": "EM 623", "title": "Data Science and Knowledge Discovery",   "semesters": "Spring 2022 · Fall 2022" }
+      ]
+    },
+    "awards": {
+      "label": "Awards & Honors",
+      "items": [
+        { "year": "2025", "title": "Travel Support — ICERM Fostering Cross-Disciplinary Collaboration, Brown University" },
+        { "year": "2025", "title": "Keynote Speaker — ISBI 2025 Special Session" },
+        { "year": "2024", "title": "Best Poster Award — AI for Epilepsy & Neurological Disorder Conference, Park City" },
+        { "year": "2024", "title": "NIH Trailblazer Award (NIH NIBIB R21 Grant)" },
+        { "year": "2024", "title": "Inaugural Best Paper Award — CHI Next-Gen Healthcare Innovators Symposium" },
+        { "year": "2023", "title": "Student Best Paper Award — Brain Informatics" },
+        { "year": "2023", "title": "Best Paper Award Finalist — INFORMS DMDA Workshop" },
+        { "year": "2023", "title": "Defense Data Grand Prix — 3rd Place" },
+        { "year": "2019", "title": "Best Paper Award (Non-student track) — INFORMS Data Mining Society" },
+        { "year": "2018", "title": "Best Paper Award — 11th International Conference of Brain Informatics" },
+        { "year": "2015", "title": "Dean Fellowship — UT Arlington" },
+        { "year": "2012", "title": "Graduate Student Scientific Achievement Award — HUST" },
+        { "year": "2008", "title": "National Scholarship — Qingdao University" },
+        { "year": "",     "title": "Additional travel awards from MICCAI, AAAI, UC Berkeley, ICERM, Brown, IPAM UCLA" }
+      ]
+    }
+  },
+  "project": {
+    "heading": "Highlighted Project",
+    "badge": "AI × Neurology",
+    "title": "First fine-tuned large language model for seizure semiology interpretation and epileptogenic-zone prediction",
+    "body": "In collaboration with clinical partners, our group developed the first fine-tuned large language model to interpret seizure semiology and localize the epileptogenic zone — turning unstructured clinical narratives into actionable diagnostic signals for epilepsy surgery evaluation.",
+    "url": "https://aiepilepsy.stevens.edu/",
+    "cta": "Visit the AI Epilepsy Lab"
+  },
+  "service": {
+    "heading": "Editorial & Service",
+    "groups": [
+      {
+        "label": "Co-Editor in Chief",
+        "items": ["Nonlinear Science and Control Engineering"]
+      },
+      {
+        "label": "Associate Editor",
+        "items": [
+          "Machine Learning with Applications",
+          "Frontiers in Neuroscience — Brain Imaging Methods"
+        ]
+      },
+      {
+        "label": "Guest Editor",
+        "items": ["Frontiers in Physics", "Energies", "Discover Artificial Intelligence"]
+      },
+      {
+        "label": "Conference Roles",
+        "items": [
+          "IEEE CASE 2025 — Special Session Co-Organizer",
+          "IEEE/ACM CHASE — Conference Co-Organizer",
+          "18th INFORMS Workshop on Data Mining & Decision Analytics — Co-Chair",
+          "17th INFORMS Workshop on Data Mining & Decision Analytics — Co-Chair",
+          "16th International Conference on Brain Informatics — Organization Committee Chair"
+        ]
+      },
+      {
+        "label": "Council & Review",
+        "items": [
+          "INFORMS Data Mining Society — Council Member",
+          "NIH Panel Reviewer"
+        ]
+      }
+    ]
+  },
+  "memberships": {
+    "heading": "Memberships & Institutional Service",
+    "groups": [
+      {
+        "label": "Professional Memberships",
+        "items": [
+          "Society for Neuroscience (SfN)",
+          "MICCAI",
+          "INFORMS",
+          "IEEE"
+        ]
+      },
+      {
+        "label": "Institutional Service",
+        "items": [
+          "Stevens–Brooklyn Tech High School Research Program — Member",
+          "Faculty Hiring Committee — Member",
+          "PhD Committee — Member",
+          "First General College Student Living & Learning Community — Faculty Committee Member",
+          "Non-tenure Faculty Search Committee — Member",
+          "EM / ISE Academic Committee — Member"
+        ]
+      }
+    ]
+  },
+  "students": {
+    "heading": "PhD Students",
+    "intro": "I am fortunate to work with multiple talented PhD students from very diverse backgrounds — Electrical Engineering, Control, AI, Biomedical Engineering, Computer Science, Mathematics, and more.",
+    "items": [
+      { "name": "Shihao Yang",  "year": "2023" },
+      { "name": "Jun-En Ding", "year": "2023" },
+      { "name": "Guoan Wang",  "year": "2025" },
+      { "name": "Hao Zhu",     "year": "2025" }
+    ]
+  }
+}

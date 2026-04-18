@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <meta name="color-scheme" content="dark"/>
+  <meta name="theme-color" content="#0B0B0C"/>
+  <title>Feng Liu — Assistant Professor, Systems Engineering, Stevens Institute of Technology</title>
+  <meta name="description" content="Dr. Feng Liu — brain networks, EEG source imaging, AI for healthcare, and dynamic systems. Assistant Professor at Stevens Institute of Technology."/>
+  <meta property="og:title" content="Feng Liu — Stevens Institute of Technology"/>
+  <meta property="og:description" content="Brain networks · EEG source imaging · AI for healthcare · Dynamic systems"/>
+  <meta property="og:type" content="profile"/>
+
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..700,0..100,0..1;1,9..144,300..700,0..100,0..1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+
+  <link rel="stylesheet" href="assets/css/tokens.css"/>
+  <link rel="stylesheet" href="assets/css/base.css"/>
+  <link rel="stylesheet" href="assets/css/components.css"/>
+  <link rel="stylesheet" href="assets/css/sections.css"/>
+  <link rel="stylesheet" href="assets/css/motion.css"/>
+
+  <script type="module" src="assets/js/main.js"></script>
+</head>
+<body>
+  <a href="#about" class="skip-link">Skip to content</a>
+  <div class="progress" aria-hidden="true"></div>
+
+  <nav class="side-nav" aria-label="Section navigation">
+    <a href="#top" data-section="top"><span class="side-nav__dot"></span><span class="side-nav__label">Top</span></a>
+    <a href="#about" data-section="about"><span class="side-nav__dot"></span><span class="side-nav__label">About</span></a>
+    <a href="#interests" data-section="interests"><span class="side-nav__dot"></span><span class="side-nav__label">Research</span></a>
+    <a href="#journey" data-section="journey"><span class="side-nav__dot"></span><span class="side-nav__label">Journey</span></a>
+    <a href="#publications" data-section="publications"><span class="side-nav__dot"></span><span class="side-nav__label">Publications</span></a>
+    <a href="#recognition" data-section="recognition"><span class="side-nav__dot"></span><span class="side-nav__label">Recognition</span></a>
+    <a href="#project" data-section="project"><span class="side-nav__dot"></span><span class="side-nav__label">Project</span></a>
+    <a href="#service" data-section="service"><span class="side-nav__dot"></span><span class="side-nav__label">Service</span></a>
+    <a href="#memberships" data-section="memberships"><span class="side-nav__dot"></span><span class="side-nav__label">Memberships</span></a>
+    <a href="#students" data-section="students"><span class="side-nav__dot"></span><span class="side-nav__label">Group</span></a>
+  </nav>
+
+  <nav class="nav" aria-label="Primary">
+    <div class="nav__inner">
+      <a href="#top" class="nav__brand">
+        <svg class="nav__brand-mark" viewBox="0 0 22 22" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="1.5" fill="currentColor"/>
+          <circle cx="4" cy="4" r="1" fill="currentColor"/>
+          <circle cx="18" cy="4" r="1" fill="currentColor"/>
+          <circle cx="4" cy="18" r="1" fill="currentColor"/>
+          <circle cx="18" cy="18" r="1" fill="currentColor"/>
+          <path d="M4 4 L11 11 L18 4 M4 18 L11 11 L18 18" stroke="currentColor" stroke-width="0.4" opacity="0.6"/>
+        </svg>
+        <span>Feng Liu</span>
+      </a>
+      <ul class="nav__links">
+        <li><a href="#about"><span class="num">i.</span> About</a></li>
+        <li><a href="#interests"><span class="num">ii.</span> Research</a></li>
+        <li><a href="#journey"><span class="num">iii.</span> Journey</a></li>
+        <li><a href="#publications"><span class="num">iv.</span> Publications</a></li>
+        <li><a href="#recognition"><span class="num">v.</span> Recognition</a></li>
+        <li><a href="#students"><span class="num">vi.</span> Group</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ========== HERO ========== -->
+  <header class="hero" id="top">
+    <canvas class="hero__canvas" aria-hidden="true"></canvas>
+    <div class="hero__vignette" aria-hidden="true"></div>
+
+    <div class="hero__content">
+      <!-- Stevens crest + ribbon -->
+      <div class="hero__crest">
+        <svg viewBox="0 0 124 200" aria-label="Stevens Institute of Technology" role="img">
+          <g fill="none" fill-rule="evenodd">
+            <polyline fill="#E8E2D5" points="91.99 0.21 90.2 0.21 33.12 0.24 31.34 0.24 0 31.49 0.09 92.13 31.29 123.34 33.07 123.34 66.15 123.34 66.15 147.81 57.1 147.81 57.12 133.65 52.79 133.65 4.4 133.65 0.09 133.65 0.09 168.32 31.28 199.52 91.97 199.52 123.19 168.32 123.17 104.61 123.17 102.83 91.97 71.63 90.19 71.63 57.11 71.62 57.11 51.95 66.16 51.95 66.16 66.10 70.48 66.10 118.87 66.10 123.19 66.10 123.19 31.44 91.99 0.21"/>
+            <path fill="#9D1535" d="M88.41 8.85 L114.55 35.01 L114.55 57.47 L74.79 57.47 L74.79 43.31 L48.48 43.31 L48.48 80.26 L52.79 80.26 L88.4 80.26 L114.54 106.40 L114.55 164.74 L88.39 190.89 L34.85 190.89 L8.72 164.74 L8.72 142.29 L48.47 142.29 L48.46 156.44 L74.78 156.44 L74.78 114.70 L70.47 114.70 L34.86 114.70 L8.72 88.55 L8.64 35.06 L34.91 8.87 L88.41 8.85 Z"/>
+          </g>
+        </svg>
+        <span class="hero__crest-sep"></span>
+        <span>Stevens Institute of Technology</span>
+      </div>
+
+      <h1 class="hero__name">Feng Liu</h1>
+
+      <div class="hero__title">
+        <span class="hero__title-role">Assistant Professor</span>
+        <span class="hero__title-rule" aria-hidden="true"></span>
+        <span class="hero__title-affil">
+          <span>Department of Systems Engineering</span>
+          <span>Charles V. Schaefer, Jr. School of Engineering and Science</span>
+        </span>
+      </div>
+
+      <figure class="hero__motto">
+        <blockquote>At the intersection of <em>systems</em>, <em>signals</em>, and the <em>mind</em>.</blockquote>
+        <figcaption aria-hidden="true">
+          <span class="hero__motto-rule"></span>
+          <svg viewBox="0 0 24 8" aria-hidden="true"><path d="M0 4 L8 4 M12 2 L12 6 M12 4 C14 2 15 6 17 4 C15 6 14 2 12 4 Z M16 4 L24 4" stroke="currentColor" stroke-width="0.6" fill="none" stroke-linecap="round"/></svg>
+          <span class="hero__motto-rule"></span>
+        </figcaption>
+      </figure>
+
+      <div class="hero__contacts" data-bind="hero.contacts"></div>
+    </div>
+
+    <a href="#about" class="hero__cue" aria-label="Scroll to content">
+      <span>Scroll</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 9l6 6 6-6"/></svg>
+    </a>
+  </header>
+
+  <!-- ========== i. ABOUT ========== -->
+  <section id="about">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">i.</span> About</div>
+      <h2 class="sec-title" data-bind="about.heading">About</h2>
+
+      <div class="about">
+        <div class="about__portrait">
+          <img src="assets/img/portrait.png" alt="Portrait of Dr. Feng Liu"/>
+        </div>
+        <div>
+          <div class="about__bio" data-bind="about.bio"></div>
+          <div class="about__metrics">
+            <div class="metric">
+              <div class="metric__value" data-bind="scholar.citations">—</div>
+              <span class="metric__label">Citations</span>
+            </div>
+            <div class="metric">
+              <div class="metric__value" data-bind="scholar.h">—</div>
+              <span class="metric__label">h-index</span>
+            </div>
+            <div class="metric">
+              <div class="metric__value" data-bind="scholar.i10">—</div>
+              <span class="metric__label">i10-index</span>
+            </div>
+            <div class="metric">
+              <div class="metric__value" data-bind="scholar.count">—</div>
+              <span class="metric__label">Publications</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== ii. RESEARCH INTERESTS ========== -->
+  <section id="interests">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">ii.</span> Research Interests</div>
+      <h2 class="sec-title" data-bind="interests.heading">Research Interests</h2>
+      <p class="sec-intro" data-bind="interests.intro"></p>
+
+      <div class="interests-layout">
+        <div class="interest-list" data-bind="interests.primary"></div>
+        <div class="interests-graph-wrap">
+          <canvas class="interests-graph" data-bind="interests.graph" role="img" aria-label="Research interest graph"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== iii. EDUCATION + EXPERIENCE (merged) ========== -->
+  <section id="journey">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">iii.</span> Journey</div>
+      <h2 class="sec-title" data-bind="journey.heading">Education &amp; Experience</h2>
+
+      <div class="two-col">
+        <div>
+          <div class="timeline-head">Education</div>
+          <div class="timeline" data-bind="journey.education"></div>
+        </div>
+        <div>
+          <div class="timeline-head">Experience</div>
+          <div class="timeline" data-bind="journey.experience"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== iv. PUBLICATIONS ========== -->
+  <section id="publications">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">iv.</span> Publications</div>
+      <h2 class="sec-title" data-bind="publications.heading">Publications</h2>
+      <p class="sec-intro" data-bind="publications.intro"></p>
+
+      <div class="pub-controls">
+        <input id="pub-search" type="search" class="pub-search" placeholder="Search title, authors, venue…" aria-label="Search publications"/>
+        <select id="pub-year" class="pub-filter" aria-label="Filter by year"></select>
+        <select id="pub-topic" class="pub-filter" aria-label="Filter by topic"></select>
+        <div class="pub-count" id="pub-count">—</div>
+      </div>
+
+      <div class="pub-list" id="pub-list" aria-live="polite"></div>
+
+      <p class="mono muted" style="margin-top:1rem;">
+        Auto-synced from Google Scholar · last updated <span data-bind="scholar.updated">—</span>
+      </p>
+    </div>
+  </section>
+
+  <!-- ========== v. RECOGNITION (Courses + Awards merged) ========== -->
+  <section id="recognition">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">v.</span> Teaching &amp; Recognition</div>
+      <h2 class="sec-title" data-bind="recognition.heading">Teaching &amp; Recognition</h2>
+
+      <div class="recognition">
+        <div>
+          <div class="section-subhead" data-bind="recognition.courses.label">Courses Taught</div>
+          <div class="course-list" data-bind="recognition.courses.items"></div>
+        </div>
+        <div>
+          <div class="section-subhead" data-bind="recognition.awards.label">Awards &amp; Honors</div>
+          <div class="award-list" data-bind="recognition.awards.items"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== vi. HIGHLIGHTED PROJECT ========== -->
+  <section id="project">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">vi.</span> Highlighted Project</div>
+      <h2 class="sec-title" data-bind="project.heading">Highlighted Project</h2>
+
+      <div class="project">
+        <div class="project__badge" data-bind="project.badge">AI × Neurology</div>
+        <h3 class="project__title" data-bind="project.title">—</h3>
+        <p class="project__body" data-bind="project.body">—</p>
+        <a class="project__cta" data-bind="project.cta" href="#">Visit the AI Epilepsy Lab →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== vii. SERVICE ========== -->
+  <section id="service">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">vii.</span> Editorial &amp; Service</div>
+      <h2 class="sec-title" data-bind="service.heading">Editorial &amp; Service</h2>
+      <div class="two-col" data-bind="service.groups"></div>
+    </div>
+  </section>
+
+  <!-- ========== viii. MEMBERSHIPS (before Students per feedback) ========== -->
+  <section id="memberships">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">viii.</span> Memberships &amp; Institutional Service</div>
+      <h2 class="sec-title" data-bind="memberships.heading">Memberships &amp; Institutional Service</h2>
+      <div class="two-col" data-bind="memberships.groups"></div>
+    </div>
+  </section>
+
+  <!-- ========== ix. STUDENTS ========== -->
+  <section id="students">
+    <div class="container reveal">
+      <div class="sec-label"><span class="num">ix.</span> PhD Students</div>
+      <h2 class="sec-title" data-bind="students.heading">PhD Students</h2>
+      <p class="sec-intro" data-bind="students.intro"></p>
+      <div class="students-grid reveal-stagger" data-bind="students.items"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>
+      © <span data-bind="year">—</span> Feng Liu · Stevens Institute of Technology.
+      <br/>
+      Publications auto-synced from
+      <a href="https://scholar.google.com/citations?user=HVZdbX0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.
+    </p>
+  </footer>
+</body>
+</html>

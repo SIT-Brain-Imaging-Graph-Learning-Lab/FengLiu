@@ -1,0 +1,21 @@
+# Python (for fetch_scholar.py local runs)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Build / logs
+*.log
+
+# The original unprocessed avatar file at the repo root
+# (a renamed copy lives at assets/img/portrait.png — that's what the site uses)
+/0a988c6ccd67ad1cca81f9c4851fc78c.png
