@@ -1,5 +1,14 @@
 [
   {
+    "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
+    "authors": "",
+    "venue": "IEEE Transactions on Artificial Intelligence, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:oE_QS-WwsdAC"
+  },
+  {
     "title": "Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis",
     "authors": "",
     "venue": "IEEE Conference on Activity and Behavior Computing, 2026",
@@ -58,7 +67,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 59,
+    "citations": 61,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -85,7 +94,7 @@
     "authors": "",
     "venue": "Expert Systems with Applications, 2025",
     "year": 2025,
-    "citations": 10,
+    "citations": 11,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
   },
@@ -94,7 +103,7 @@
     "authors": "",
     "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
     "year": 2025,
-    "citations": 8,
+    "citations": 9,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
@@ -130,7 +139,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2025",
     "year": 2025,
-    "citations": 5,
+    "citations": 6,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:anDooRL1HQEC"
   },
@@ -153,6 +162,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:T_0gP6tLVL0C"
   },
   {
+    "title": "Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG",
+    "authors": "",
+    "venue": "NeurIPS, 2025",
+    "year": 2025,
+    "citations": 3,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:71d7Y1FijdoC"
+  },
+  {
     "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
     "authors": "",
     "venue": "EMNLP, 2025",
@@ -160,15 +178,6 @@
     "citations": 3,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
-  },
-  {
-    "title": "Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG",
-    "authors": "",
-    "venue": "NeurIPS, 2025",
-    "year": 2025,
-    "citations": 2,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:71d7Y1FijdoC"
   },
   {
     "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
@@ -220,7 +229,7 @@
     "authors": "",
     "venue": "Scientific Reports 14 (1), 20774, 2024",
     "year": 2024,
-    "citations": 38,
+    "citations": 39,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
   },
@@ -229,7 +238,7 @@
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
     "year": 2024,
-    "citations": 22,
+    "citations": 23,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
   },
@@ -247,7 +256,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 2492-2502, 2024",
     "year": 2024,
-    "citations": 19,
+    "citations": 20,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:_n8fIOMweQoC"
   },
@@ -261,6 +270,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Pqt4MY__2vwC"
   },
   {
+    "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and IEEG",
+    "authors": "",
+    "venue": "NeuroImage 299, 120802, 2024",
+    "year": 2024,
+    "citations": 15,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
+  },
+  {
     "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
     "authors": "",
     "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
@@ -270,15 +288,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
   },
   {
-    "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and IEEG",
-    "authors": "",
-    "venue": "NeuroImage 299, 120802, 2024",
-    "year": 2024,
-    "citations": 14,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
-  },
-  {
     "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
     "authors": "",
     "venue": "Computers in Biology and Medicine 183, 109237, 2024",
@@ -286,6 +295,24 @@
     "citations": 11,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
+  },
+  {
+    "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2403.04785, 2024",
+    "year": 2024,
+    "citations": 8,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CMPXdcK5v8EC"
+  },
+  {
+    "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
+    "authors": "",
+    "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
+    "year": 2024,
+    "citations": 8,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
   },
   {
     "title": "EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists",
@@ -304,24 +331,6 @@
     "citations": 7,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
-  },
-  {
-    "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
-    "authors": "",
-    "venue": "arXiv preprint arXiv:2403.04785, 2024",
-    "year": 2024,
-    "citations": 7,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CMPXdcK5v8EC"
-  },
-  {
-    "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
-    "authors": "",
-    "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
-    "year": 2024,
-    "citations": 7,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
   },
   {
     "title": "Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma",
@@ -652,7 +661,7 @@
     "authors": "",
     "venue": "Control Engineering Practice 107, 104682, 2021",
     "year": 2021,
-    "citations": 123,
+    "citations": 124,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:pxXbYLTb8EgC"
   },
@@ -670,7 +679,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Vehicular Technology 71 (2), 1307-1318, 2021",
     "year": 2021,
-    "citations": 51,
+    "citations": 52,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:U3qCfcK-7lkC"
   },
@@ -769,7 +778,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Cybernetics, 2020",
     "year": 2020,
-    "citations": 82,
+    "citations": 83,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j7XjBeKFbTsC"
   },
@@ -787,7 +796,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics 25 (1), 237-246, 2020",
     "year": 2020,
-    "citations": 26,
+    "citations": 29,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:o9ULDYDKYbIC"
   },
