@@ -1,14 +1,5 @@
 [
   {
-    "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
-    "authors": "",
-    "venue": "IEEE Transactions on Artificial Intelligence, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:oE_QS-WwsdAC"
-  },
-  {
     "title": "Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis",
     "authors": "",
     "venue": "IEEE Conference on Activity and Behavior Computing, 2026",
@@ -67,7 +58,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 61,
+    "citations": 64,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -94,7 +85,7 @@
     "authors": "",
     "venue": "Expert Systems with Applications, 2025",
     "year": 2025,
-    "citations": 11,
+    "citations": 12,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
   },
@@ -292,7 +283,7 @@
     "authors": "",
     "venue": "Computers in Biology and Medicine 183, 109237, 2024",
     "year": 2024,
-    "citations": 11,
+    "citations": 14,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
   },
@@ -315,6 +306,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
   },
   {
+    "title": "Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma",
+    "authors": "",
+    "venue": "Journal of the American Academy of Dermatology 90 (2), 288-298, 2024",
+    "year": 2024,
+    "citations": 8,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:w0odbtu79TwC"
+  },
+  {
     "title": "EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists",
     "authors": "",
     "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
@@ -333,15 +333,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
   },
   {
-    "title": "Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma",
-    "authors": "",
-    "venue": "Journal of the American Academy of Dermatology 90 (2), 288-298, 2024",
-    "year": 2024,
-    "citations": 7,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:w0odbtu79TwC"
-  },
-  {
     "title": "Rejuvenating classical brain electrophysiology source localization methods with spatial graph Fourier filters for source extents estimation",
     "authors": "",
     "venue": "Brain Informatics 11 (1), 8, 2024",
@@ -355,7 +346,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics, 2024",
     "year": 2024,
-    "citations": 5,
+    "citations": 4,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:r56sNq9gaawC"
   },
@@ -427,7 +418,7 @@
     "authors": "",
     "venue": "Journal of the American Academy of Dermatology 88 (6), 1308-1316, 2023",
     "year": 2023,
-    "citations": 15,
+    "citations": 16,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:6Zm5LS9gQ5UC"
   },
@@ -661,7 +652,7 @@
     "authors": "",
     "venue": "Control Engineering Practice 107, 104682, 2021",
     "year": 2021,
-    "citations": 124,
+    "citations": 125,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:pxXbYLTb8EgC"
   },
@@ -679,7 +670,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Vehicular Technology 71 (2), 1307-1318, 2021",
     "year": 2021,
-    "citations": 52,
+    "citations": 53,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:U3qCfcK-7lkC"
   },
@@ -841,7 +832,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 127,
+    "citations": 129,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
@@ -850,7 +841,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 196, 1267-1281, 2019",
     "year": 2019,
-    "citations": 102,
+    "citations": 103,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:urP0JZOBBUsC"
   },
@@ -886,7 +877,7 @@
     "authors": "",
     "venue": "Chaos, Solitons & Fractals 114, 230-245, 2018",
     "year": 2018,
-    "citations": 167,
+    "citations": 168,
     "topic": "dynamics",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:It0W0vAlS5QC"
   },
@@ -1012,7 +1003,7 @@
     "authors": "",
     "venue": "Neurocomputing 117, 33-39, 2013",
     "year": 2013,
-    "citations": 32,
+    "citations": 33,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IT1MJ6E3JesC"
   },
