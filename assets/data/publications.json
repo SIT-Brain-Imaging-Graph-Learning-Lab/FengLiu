@@ -1,5 +1,14 @@
 [
   {
+    "title": "NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2603.16880, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WgvcDLhf7hwC"
+  },
+  {
     "title": "Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis",
     "authors": "",
     "venue": "IEEE Conference on Activity and Behavior Computing, 2026",
@@ -25,15 +34,6 @@
     "citations": 0,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:2_BaaiyHPJIC"
-  },
-  {
-    "title": "NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning",
-    "authors": "",
-    "venue": "bioRxiv, 2026.03. 07.707799, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WgvcDLhf7hwC"
   },
   {
     "title": "MedEvalArena: A Self-Generated, Peer-Judged Benchmark for Medical Reasoning",
@@ -103,7 +103,7 @@
     "authors": "",
     "venue": "Cell Reports Medicine, 2025",
     "year": 2025,
-    "citations": 7,
+    "citations": 8,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
@@ -562,7 +562,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022",
     "year": 2022,
-    "citations": 48,
+    "citations": 49,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-vzq6BoH5oUC"
   },
