@@ -58,7 +58,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 64,
+    "citations": 65,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -76,7 +76,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2025",
     "year": 2025,
-    "citations": 13,
+    "citations": 14,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:p-HGrieyzrAC"
   },
@@ -108,6 +108,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
+    "title": "BG-GAN: Generative AI Enable Representing Brain Structure-Function Connections for Alzheimer’s Disease",
+    "authors": "",
+    "venue": "IEEE Transactions on Consumer Electronics, 2025",
+    "year": 2025,
+    "citations": 7,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:vkuYBMKU6wEC"
+  },
+  {
     "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
     "authors": "",
     "venue": "Health Information Science and Systems, 2025",
@@ -115,15 +124,6 @@
     "citations": 7,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
-  },
-  {
-    "title": "BG-GAN: Generative AI Enable Representing Brain Structure-Function Connections for Alzheimer’s Disease",
-    "authors": "",
-    "venue": "IEEE Transactions on Consumer Electronics, 2025",
-    "year": 2025,
-    "citations": 6,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:vkuYBMKU6wEC"
   },
   {
     "title": "mGNN-bw: Multi-scale Graph Neural Network Based on Biased Random Walk Path Aggregation for ASD Diagnosis",
@@ -180,6 +180,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:wgKq3sYidysC"
   },
   {
+    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
+    "authors": "",
+    "venue": "IEEE Transactions on Cybernetics, 2025",
+    "year": 2025,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
+  },
+  {
     "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Biomarker Recognition in EEG Brain Networks",
     "authors": "",
     "venue": "arXiv preprint arXiv:2510.11917, 2025",
@@ -196,15 +205,6 @@
     "citations": 0,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8rLWgkbgOXQC"
-  },
-  {
-    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
-    "authors": "",
-    "venue": "IEEE Transactions on Cybernetics, 2025",
-    "year": 2025,
-    "citations": 0,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
   },
   {
     "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders",
@@ -283,7 +283,7 @@
     "authors": "",
     "venue": "Computers in Biology and Medicine 183, 109237, 2024",
     "year": 2024,
-    "citations": 14,
+    "citations": 13,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
   },
@@ -351,6 +351,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:r56sNq9gaawC"
   },
   {
+    "title": "Empowering Sleep Health: Unleashing the Potential of Artificial Intelligence and Data Science in Sleep Disorders",
+    "authors": "",
+    "venue": "Handbook of AI and Data Sciences for Sleep Disorders, 1-44, 2024",
+    "year": 2024,
+    "citations": 3,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WHBERAHVdrEC"
+  },
+  {
     "title": "EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models",
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Demo paper), 2024",
@@ -358,15 +367,6 @@
     "citations": 3,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:h9G0ZmjYpDoC"
-  },
-  {
-    "title": "Empowering Sleep Health: Unleashing the Potential of Artificial Intelligence and Data Science in Sleep Disorders",
-    "authors": "",
-    "venue": "Handbook of AI and Data Sciences for Sleep Disorders, 1-44, 2024",
-    "year": 2024,
-    "citations": 2,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WHBERAHVdrEC"
   },
   {
     "title": "Detection of High-Frequency Oscillations from Intracranial EEG Data with Switching State Space Model",
@@ -535,7 +535,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 252, 115047, 2022",
     "year": 2022,
-    "citations": 98,
+    "citations": 99,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:cOfwuRB03ygC"
   },
@@ -580,7 +580,7 @@
     "authors": "",
     "venue": "Renewable Energy 182, 787-796, 2022",
     "year": 2022,
-    "citations": 27,
+    "citations": 28,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8JTMrWI6FdcC"
   },
@@ -670,7 +670,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Vehicular Technology 71 (2), 1307-1318, 2021",
     "year": 2021,
-    "citations": 53,
+    "citations": 54,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:U3qCfcK-7lkC"
   },
@@ -724,7 +724,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Smart Grid 12 (4), 3448-3457, 2021",
     "year": 2021,
-    "citations": 11,
+    "citations": 12,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:TeJ9juy8vcMC"
   },
@@ -832,7 +832,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 129,
+    "citations": 130,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
@@ -922,7 +922,7 @@
     "authors": "",
     "venue": "PloS one 12 (7), e0181747, 2017",
     "year": 2017,
-    "citations": 113,
+    "citations": 114,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IHkkN1K1AlAC"
   },
