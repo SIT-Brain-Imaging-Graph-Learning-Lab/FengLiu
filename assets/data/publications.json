@@ -283,9 +283,27 @@
     "authors": "",
     "venue": "Computers in Biology and Medicine 183, 109237, 2024",
     "year": 2024,
-    "citations": 13,
+    "citations": 14,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
+  },
+  {
+    "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
+    "authors": "",
+    "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
+    "year": 2024,
+    "citations": 9,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
+  },
+  {
+    "title": "EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists",
+    "authors": "",
+    "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
+    "year": 2024,
+    "citations": 8,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
   },
   {
     "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
@@ -297,15 +315,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CMPXdcK5v8EC"
   },
   {
-    "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
-    "authors": "",
-    "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
-    "year": 2024,
-    "citations": 8,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
-  },
-  {
     "title": "Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma",
     "authors": "",
     "venue": "Journal of the American Academy of Dermatology 90 (2), 288-298, 2024",
@@ -313,15 +322,6 @@
     "citations": 8,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:w0odbtu79TwC"
-  },
-  {
-    "title": "EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists",
-    "authors": "",
-    "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
-    "year": 2024,
-    "citations": 7,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
   },
   {
     "title": "Deep attention networks with multi-temporal information fusion for sleep apnea detection",
@@ -553,7 +553,7 @@
     "authors": "",
     "venue": "NPJ precision oncology 6 (1), 79, 2022",
     "year": 2022,
-    "citations": 50,
+    "citations": 51,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IExZWSxeYXUC"
   },
@@ -787,7 +787,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics 25 (1), 237-246, 2020",
     "year": 2020,
-    "citations": 29,
+    "citations": 30,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:o9ULDYDKYbIC"
   },
