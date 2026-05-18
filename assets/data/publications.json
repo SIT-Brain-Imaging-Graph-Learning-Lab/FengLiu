@@ -1,5 +1,23 @@
 [
   {
+    "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2605.07305, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ibZ2AwG9z6wC"
+  },
+  {
+    "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
+    "authors": "",
+    "venue": "IEEE Transactions on Artificial Intelligence, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:iWL_APfBKHwC"
+  },
+  {
     "title": "NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning",
     "authors": "",
     "venue": "arXiv preprint arXiv:2603.16880, 2026",
@@ -58,7 +76,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 65,
+    "citations": 72,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -76,7 +94,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2025",
     "year": 2025,
-    "citations": 14,
+    "citations": 15,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:p-HGrieyzrAC"
   },
@@ -94,7 +112,7 @@
     "authors": "",
     "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
     "year": 2025,
-    "citations": 9,
+    "citations": 10,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
@@ -103,7 +121,7 @@
     "authors": "",
     "venue": "Cell Reports Medicine, 2025",
     "year": 2025,
-    "citations": 8,
+    "citations": 9,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
@@ -139,7 +157,7 @@
     "authors": "",
     "venue": "arXiv preprint arXiv:2510.16658, 2025",
     "year": 2025,
-    "citations": 4,
+    "citations": 5,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:i8eIfGGcn98C"
   },
@@ -229,7 +247,7 @@
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
     "year": 2024,
-    "citations": 23,
+    "citations": 24,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
   },
@@ -261,6 +279,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Pqt4MY__2vwC"
   },
   {
+    "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
+    "authors": "",
+    "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
+    "year": 2024,
+    "citations": 16,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
+  },
+  {
     "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and IEEG",
     "authors": "",
     "venue": "NeuroImage 299, 120802, 2024",
@@ -268,15 +295,6 @@
     "citations": 15,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
-  },
-  {
-    "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
-    "authors": "",
-    "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
-    "year": 2024,
-    "citations": 15,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
   },
   {
     "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
@@ -346,7 +364,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics, 2024",
     "year": 2024,
-    "citations": 4,
+    "citations": 5,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:r56sNq9gaawC"
   },
@@ -553,7 +571,7 @@
     "authors": "",
     "venue": "NPJ precision oncology 6 (1), 79, 2022",
     "year": 2022,
-    "citations": 51,
+    "citations": 52,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IExZWSxeYXUC"
   },
@@ -562,7 +580,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022",
     "year": 2022,
-    "citations": 49,
+    "citations": 50,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-vzq6BoH5oUC"
   },
@@ -652,7 +670,7 @@
     "authors": "",
     "venue": "Control Engineering Practice 107, 104682, 2021",
     "year": 2021,
-    "citations": 125,
+    "citations": 126,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:pxXbYLTb8EgC"
   },
@@ -661,7 +679,7 @@
     "authors": "",
     "venue": "Engineering Applications of Artificial Intelligence 104, 104407, 2021",
     "year": 2021,
-    "citations": 89,
+    "citations": 90,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:KIRwYnRZzWQC"
   },
@@ -769,7 +787,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Cybernetics, 2020",
     "year": 2020,
-    "citations": 83,
+    "citations": 84,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j7XjBeKFbTsC"
   },
@@ -805,7 +823,7 @@
     "authors": "",
     "venue": "Computers & Operations Research 124, 105032, 2020",
     "year": 2020,
-    "citations": 11,
+    "citations": 12,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:1paMEeroeoQC"
   },
