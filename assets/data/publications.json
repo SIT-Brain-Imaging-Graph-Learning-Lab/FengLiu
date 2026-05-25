@@ -67,7 +67,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 72,
+    "citations": 75,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -99,6 +99,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
   },
   {
+    "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
+    "authors": "",
+    "venue": "Cell Reports Medicine, 2025",
+    "year": 2025,
+    "citations": 10,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
+  },
+  {
     "title": "The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation",
     "authors": "",
     "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
@@ -106,15 +115,6 @@
     "citations": 10,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
-  },
-  {
-    "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
-    "authors": "",
-    "venue": "Cell Reports Medicine, 2025",
-    "year": 2025,
-    "citations": 9,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
     "title": "BG-GAN: Generative AI Enable Representing Brain Structure-Function Connections for Alzheimer’s Disease",
@@ -180,6 +180,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
   },
   {
+    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
+    "authors": "",
+    "venue": "IEEE Transactions on Cybernetics, 2025",
+    "year": 2025,
+    "citations": 2,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
+  },
+  {
     "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
     "authors": "",
     "venue": "IEEE Transactions on Automation Science and Engineering, 2025",
@@ -187,15 +196,6 @@
     "citations": 2,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:wgKq3sYidysC"
-  },
-  {
-    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
-    "authors": "",
-    "venue": "IEEE Transactions on Cybernetics, 2025",
-    "year": 2025,
-    "citations": 1,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
   },
   {
     "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Biomarker Recognition in EEG Brain Networks",
@@ -571,7 +571,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022",
     "year": 2022,
-    "citations": 50,
+    "citations": 51,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-vzq6BoH5oUC"
   },
@@ -661,7 +661,7 @@
     "authors": "",
     "venue": "Control Engineering Practice 107, 104682, 2021",
     "year": 2021,
-    "citations": 126,
+    "citations": 127,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:pxXbYLTb8EgC"
   },
@@ -940,7 +940,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Big Data 3 (4), 378-391, 2017",
     "year": 2017,
-    "citations": 32,
+    "citations": 33,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:u0Mu_IsstPMC"
   },
