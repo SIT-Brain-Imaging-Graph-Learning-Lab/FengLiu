@@ -67,7 +67,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 76,
+    "citations": 77,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -99,6 +99,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
   },
   {
+    "title": "The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation",
+    "authors": "",
+    "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
+    "year": 2025,
+    "citations": 11,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
+  },
+  {
     "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
     "authors": "",
     "venue": "Cell Reports Medicine, 2025",
@@ -106,15 +115,6 @@
     "citations": 10,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
-  },
-  {
-    "title": "The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation",
-    "authors": "",
-    "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
-    "year": 2025,
-    "citations": 10,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
   {
     "title": "BG-GAN: Generative AI Enable Representing Brain Structure-Function Connections for Alzheimer’s Disease",
@@ -279,6 +279,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
   },
   {
+    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
+    "authors": "",
+    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
+    "year": 2024,
+    "citations": 15,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
+  },
+  {
     "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and iEEG",
     "authors": "",
     "venue": "NeuroImage 299, 120802, 2024",
@@ -286,15 +295,6 @@
     "citations": 15,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
-  },
-  {
-    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
-    "authors": "",
-    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
-    "year": 2024,
-    "citations": 14,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
   },
   {
     "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
@@ -562,7 +562,7 @@
     "authors": "",
     "venue": "NPJ precision oncology 6 (1), 79, 2022",
     "year": 2022,
-    "citations": 52,
+    "citations": 53,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IExZWSxeYXUC"
   },
@@ -589,7 +589,7 @@
     "authors": "",
     "venue": "Renewable Energy 182, 787-796, 2022",
     "year": 2022,
-    "citations": 28,
+    "citations": 29,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8JTMrWI6FdcC"
   },
@@ -688,7 +688,7 @@
     "authors": "",
     "venue": "Expert Systems with Applications 171, 114565, 2021",
     "year": 2021,
-    "citations": 51,
+    "citations": 52,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:RJNGbXJAtMsC"
   },
