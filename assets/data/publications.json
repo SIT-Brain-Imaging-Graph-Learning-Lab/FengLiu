@@ -1,5 +1,14 @@
 [
   {
+    "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
+    "authors": "",
+    "venue": "Meta-Radiology, 2026",
+    "year": 2026,
+    "citations": 5,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:i8eIfGGcn98C"
+  },
+  {
     "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
     "authors": "",
     "venue": "IEEE Transactions on Artificial Intelligence, 2026",
@@ -67,7 +76,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 77,
+    "citations": 79,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -90,6 +99,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:p-HGrieyzrAC"
   },
   {
+    "title": "The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation",
+    "authors": "",
+    "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
+    "year": 2025,
+    "citations": 12,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
+  },
+  {
     "title": "Enhancing Multimodal Medical Image Classification through Cross-Graph Modal Contrastive Learning",
     "authors": "",
     "venue": "Expert Systems with Applications, 2025",
@@ -97,15 +115,6 @@
     "citations": 12,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
-  },
-  {
-    "title": "The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation",
-    "authors": "",
-    "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
-    "year": 2025,
-    "citations": 11,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
   {
     "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
@@ -130,7 +139,7 @@
     "authors": "",
     "venue": "Health Information Science and Systems, 2025",
     "year": 2025,
-    "citations": 6,
+    "citations": 7,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
   },
@@ -142,15 +151,6 @@
     "citations": 6,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:anDooRL1HQEC"
-  },
-  {
-    "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
-    "authors": "",
-    "venue": "arXiv preprint arXiv:2510.16658, 2025",
-    "year": 2025,
-    "citations": 5,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:i8eIfGGcn98C"
   },
   {
     "title": "Flexible and Explainable Graph Analysis for EEG-based Alzheimer's Disease Classification",
@@ -229,7 +229,7 @@
     "authors": "",
     "venue": "Scientific Reports 14 (1), 20774, 2024",
     "year": 2024,
-    "citations": 40,
+    "citations": 41,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
   },
@@ -238,9 +238,18 @@
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
     "year": 2024,
-    "citations": 24,
+    "citations": 25,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
+  },
+  {
+    "title": "Multi-modal electrophysiological source imaging with attention neural networks based on deep fusion of EEG and MEG",
+    "authors": "",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 2492-2502, 2024",
+    "year": 2024,
+    "citations": 21,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:_n8fIOMweQoC"
   },
   {
     "title": "Multi-source variational mode transfer learning for enhanced PM2. 5 concentration forecasting at data-limited monitoring stations",
@@ -250,15 +259,6 @@
     "citations": 21,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CLhUwle04lcC"
-  },
-  {
-    "title": "Multi-modal electrophysiological source imaging with attention neural networks based on deep fusion of EEG and MEG",
-    "authors": "",
-    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 2492-2502, 2024",
-    "year": 2024,
-    "citations": 20,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:_n8fIOMweQoC"
   },
   {
     "title": "Application of uniform experimental design theory to multi-strategy improved sparrow search algorithm for UAV path planning",
@@ -589,7 +589,7 @@
     "authors": "",
     "venue": "Renewable Energy 182, 787-796, 2022",
     "year": 2022,
-    "citations": 29,
+    "citations": 30,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8JTMrWI6FdcC"
   },
@@ -778,7 +778,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Cybernetics, 2020",
     "year": 2020,
-    "citations": 84,
+    "citations": 85,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j7XjBeKFbTsC"
   },
@@ -787,7 +787,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 217, 112964, 2020",
     "year": 2020,
-    "citations": 58,
+    "citations": 59,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:L7vk9XBBNxgC"
   },
@@ -796,7 +796,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics 25 (1), 237-246, 2020",
     "year": 2020,
-    "citations": 30,
+    "citations": 31,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:o9ULDYDKYbIC"
   },
@@ -841,7 +841,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 130,
+    "citations": 131,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
