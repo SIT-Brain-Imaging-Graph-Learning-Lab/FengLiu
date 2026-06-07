@@ -76,7 +76,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 80,
+    "citations": 82,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -85,7 +85,7 @@
     "authors": "",
     "venue": "ACL 2025, 2025",
     "year": 2025,
-    "citations": 29,
+    "citations": 30,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:qhW0HyKmSusC"
   },
@@ -121,7 +121,7 @@
     "authors": "",
     "venue": "Cell Reports Medicine, 2025",
     "year": 2025,
-    "citations": 10,
+    "citations": 11,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
@@ -148,7 +148,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2025",
     "year": 2025,
-    "citations": 6,
+    "citations": 7,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:anDooRL1HQEC"
   },
@@ -279,15 +279,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
   },
   {
-    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
-    "authors": "",
-    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
-    "year": 2024,
-    "citations": 15,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
-  },
-  {
     "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and iEEG",
     "authors": "",
     "venue": "NeuroImage 299, 120802, 2024",
@@ -297,11 +288,20 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
   },
   {
+    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
+    "authors": "",
+    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
+    "year": 2024,
+    "citations": 14,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
+  },
+  {
     "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
     "authors": "",
     "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
     "year": 2024,
-    "citations": 9,
+    "citations": 10,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
   },
@@ -310,7 +310,7 @@
     "authors": "",
     "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
     "year": 2024,
-    "citations": 8,
+    "citations": 9,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
   },
@@ -571,7 +571,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022",
     "year": 2022,
-    "citations": 51,
+    "citations": 52,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-vzq6BoH5oUC"
   },
@@ -661,7 +661,7 @@
     "authors": "",
     "venue": "Control Engineering Practice 107, 104682, 2021",
     "year": 2021,
-    "citations": 127,
+    "citations": 128,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:pxXbYLTb8EgC"
   },
@@ -733,7 +733,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Smart Grid 12 (4), 3448-3457, 2021",
     "year": 2021,
-    "citations": 13,
+    "citations": 14,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:TeJ9juy8vcMC"
   },
@@ -796,7 +796,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics 25 (1), 237-246, 2020",
     "year": 2020,
-    "citations": 30,
+    "citations": 32,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:o9ULDYDKYbIC"
   },
@@ -841,7 +841,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 131,
+    "citations": 132,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
@@ -850,7 +850,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 196, 1267-1281, 2019",
     "year": 2019,
-    "citations": 104,
+    "citations": 105,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:urP0JZOBBUsC"
   },
