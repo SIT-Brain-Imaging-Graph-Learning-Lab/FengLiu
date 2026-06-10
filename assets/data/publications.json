@@ -243,6 +243,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
   },
   {
+    "title": "Multi-source variational mode transfer learning for enhanced PM2. 5 concentration forecasting at data-limited monitoring stations",
+    "authors": "",
+    "venue": "Expert Systems with Applications 238, 121714, 2024",
+    "year": 2024,
+    "citations": 23,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CLhUwle04lcC"
+  },
+  {
     "title": "Multi-modal electrophysiological source imaging with attention neural networks based on deep fusion of EEG and MEG",
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 2492-2502, 2024",
@@ -252,13 +261,13 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:_n8fIOMweQoC"
   },
   {
-    "title": "Multi-source variational mode transfer learning for enhanced PM2. 5 concentration forecasting at data-limited monitoring stations",
+    "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
     "authors": "",
-    "venue": "Expert Systems with Applications 238, 121714, 2024",
+    "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
     "year": 2024,
-    "citations": 21,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CLhUwle04lcC"
+    "citations": 17,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
   },
   {
     "title": "Application of uniform experimental design theory to multi-strategy improved sparrow search algorithm for UAV path planning",
@@ -268,15 +277,6 @@
     "citations": 16,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Pqt4MY__2vwC"
-  },
-  {
-    "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
-    "authors": "",
-    "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
-    "year": 2024,
-    "citations": 16,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
   },
   {
     "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and iEEG",
@@ -711,6 +711,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:YGhAHpnIhDoC"
   },
   {
+    "title": "Prediction for the risk of multiple chronic conditions among working population in the united states with machine learning models",
+    "authors": "",
+    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 2, 291-298, 2021",
+    "year": 2021,
+    "citations": 24,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:9VeumLvkZSQC"
+  },
+  {
     "title": "Age-Related EEG Power Reductions Cannot Be Explained by Changes of the Conductivity Distribution in the Head Due to Brain Atrophy",
     "authors": "",
     "venue": "Frontiers in Aging Neuroscience, 26, 2021",
@@ -718,15 +727,6 @@
     "citations": 24,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8gBurD7jEYQC"
-  },
-  {
-    "title": "Prediction for the risk of multiple chronic conditions among working population in the united states with machine learning models",
-    "authors": "",
-    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 2, 291-298, 2021",
-    "year": 2021,
-    "citations": 23,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:9VeumLvkZSQC"
   },
   {
     "title": "Multiple Line Outage Detection in Power Systems by Sparse Recovery Using Transient Data",
@@ -751,7 +751,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Automation Science and Engineering, 2021",
     "year": 2021,
-    "citations": 7,
+    "citations": 8,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:1_W9tMSvGuwC"
   },
@@ -796,7 +796,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics 25 (1), 237-246, 2020",
     "year": 2020,
-    "citations": 32,
+    "citations": 33,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:o9ULDYDKYbIC"
   },
@@ -841,7 +841,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 132,
+    "citations": 133,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
