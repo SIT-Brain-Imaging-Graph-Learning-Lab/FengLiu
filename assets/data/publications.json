@@ -1,12 +1,21 @@
 [
   {
-    "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
+    "title": "Knowledge graph representation of the mappings between seizure semiology and epileptogenic zones",
     "authors": "",
-    "venue": "Meta-Radiology, 2026",
+    "venue": "Scientific Report, 2026",
     "year": 2026,
-    "citations": 5,
+    "citations": 1,
     "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:i8eIfGGcn98C"
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:0Kh4an1R61UC"
+  },
+  {
+    "title": "Large-Scale AI and Foundation Models for Neuroscience: A Comprehensive Review",
+    "authors": "",
+    "venue": "Meta-Radiology, 100224, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-qpA3cGbmHsC"
   },
   {
     "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
@@ -63,20 +72,11 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j6V8Syvup0UC"
   },
   {
-    "title": "Knowledge graph representation of the mappings between seizure semiology and epileptogenic zones",
-    "authors": "",
-    "venue": "Scientific Report, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:0Kh4an1R61UC"
-  },
-  {
     "title": "Limitations of Large Language Models in Clinical Problem-Solving Arising from Inflexible Reasoning",
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 82,
+    "citations": 83,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -85,7 +85,7 @@
     "authors": "",
     "venue": "ACL 2025, 2025",
     "year": 2025,
-    "citations": 30,
+    "citations": 31,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:qhW0HyKmSusC"
   },
@@ -94,7 +94,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2025",
     "year": 2025,
-    "citations": 15,
+    "citations": 18,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:p-HGrieyzrAC"
   },
@@ -103,7 +103,7 @@
     "authors": "",
     "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
     "year": 2025,
-    "citations": 12,
+    "citations": 13,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
@@ -162,6 +162,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:T_0gP6tLVL0C"
   },
   {
+    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
+    "authors": "",
+    "venue": "IEEE Transactions on Cybernetics, 2025",
+    "year": 2025,
+    "citations": 3,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
+  },
+  {
     "title": "Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG",
     "authors": "",
     "venue": "NeurIPS, 2025",
@@ -178,15 +187,6 @@
     "citations": 3,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
-  },
-  {
-    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
-    "authors": "",
-    "venue": "IEEE Transactions on Cybernetics, 2025",
-    "year": 2025,
-    "citations": 2,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
   },
   {
     "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
@@ -270,6 +270,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
   },
   {
+    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
+    "authors": "",
+    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
+    "year": 2024,
+    "citations": 16,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
+  },
+  {
     "title": "Application of uniform experimental design theory to multi-strategy improved sparrow search algorithm for UAV path planning",
     "authors": "",
     "venue": "Expert Systems with Applications 255, 124849, 2024",
@@ -288,20 +297,11 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
   },
   {
-    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
-    "authors": "",
-    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
-    "year": 2024,
-    "citations": 14,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
-  },
-  {
     "title": "Multiview Contrastive Learning for Unsupervised Domain Adaptation in Brain–Computer Interfaces",
     "authors": "",
     "venue": "IEEE Transactions on Instrumentation and Measurement 73, 1-10, 2024",
     "year": 2024,
-    "citations": 10,
+    "citations": 11,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
   },
@@ -310,7 +310,7 @@
     "authors": "",
     "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
     "year": 2024,
-    "citations": 9,
+    "citations": 10,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
   },
@@ -513,6 +513,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ZqLB7dQ1iF4C"
   },
   {
+    "title": "GCSTI: A Single-Cell Pseudotemporal Trajectory Inference Method Based on Graph Compression",
+    "authors": "",
+    "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 20 (5 …, 2023",
+    "year": 2023,
+    "citations": 1,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:QeguYG95ZbAC"
+  },
+  {
     "title": "The SAITS epidemic spreading model and its combinational optimal suppression control",
     "authors": "",
     "venue": "Mathematical Biosciences and Engineering 20 (2), 3342-3354, 2023",
@@ -529,15 +538,6 @@
     "citations": 0,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:1Aeql8wG3wEC"
-  },
-  {
-    "title": "GCSTI: A Single-Cell Pseudotemporal Trajectory Inference Method Based on Graph Compression",
-    "authors": "",
-    "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 20 (5 …, 2023",
-    "year": 2023,
-    "citations": 0,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:QeguYG95ZbAC"
   },
   {
     "title": "Wind farm layout optimization using adaptive evolutionary algorithm with Monte Carlo Tree Search reinforcement learning",
