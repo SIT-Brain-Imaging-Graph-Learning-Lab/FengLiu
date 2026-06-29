@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kinematically feasible path planning and robust predefined performance formation control for MAGVs under mixed uncertainties",
+    "authors": "",
+    "venue": "Expert Systems with Applications, 131904, 2026",
+    "year": 2026,
+    "citations": 1,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:43B52WW2E64C"
+  },
+  {
     "title": "Knowledge graph representation of the mappings between seizure semiology and epileptogenic zones",
     "authors": "",
     "venue": "Scientific Report, 2026",
@@ -7,6 +16,15 @@
     "citations": 1,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:0Kh4an1R61UC"
+  },
+  {
+    "title": "DynFS-MoE: Dynamic Functional-Structural Mixture-of-Experts for Post-Traumatic Epilepsy Diagnosis",
+    "authors": "",
+    "venue": "MICCAI 2026, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:JavbeY_VQWIC"
   },
   {
     "title": "Large-Scale AI and Foundation Models for Neuroscience: A Comprehensive Review",
@@ -76,7 +94,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 84,
+    "citations": 95,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -90,20 +108,20 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:qhW0HyKmSusC"
   },
   {
-    "title": "Generating grid multiscroll memristive chua’s circuit and its predefined-time synchronization for secure communication",
+    "title": "Generating grid multiscroll memristive Chua’s circuit and its predefined-time synchronization for secure communication",
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2025",
     "year": 2025,
-    "citations": 18,
+    "citations": 23,
     "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:p-HGrieyzrAC"
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yNlG6JgpFqoC"
   },
   {
     "title": "The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation",
     "authors": "",
     "venue": "Journal of Medical Internet Research 2025 (27), e69173, 2025",
     "year": 2025,
-    "citations": 13,
+    "citations": 14,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
@@ -126,13 +144,22 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
-    "title": "BG-GAN: Generative AI Enable Representing Brain Structure-Function Connections for Alzheimer’s Disease",
+    "title": "BG-GAN: generative AI enable representing brain structure-function connections for Alzheimer’s disease",
     "authors": "",
     "venue": "IEEE Transactions on Consumer Electronics, 2025",
     "year": 2025,
-    "citations": 7,
+    "citations": 8,
     "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:vkuYBMKU6wEC"
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-LHtoeeytlUC"
+  },
+  {
+    "title": "mgnn-bw: Multi-scale graph neural network based on biased random walk path aggregation for asd diagnosis",
+    "authors": "",
+    "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2025",
+    "year": 2025,
+    "citations": 7,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:q09DtPQ_434C"
   },
   {
     "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
@@ -144,13 +171,31 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
   },
   {
-    "title": "mGNN-bw: Multi-scale Graph Neural Network Based on Biased Random Walk Path Aggregation for ASD Diagnosis",
+    "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
     "authors": "",
-    "venue": "IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2025",
+    "venue": "arXiv preprint arXiv:2510.16658, 2025",
     "year": 2025,
-    "citations": 7,
+    "citations": 5,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:AubyX3KqGToC"
+  },
+  {
+    "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
+    "authors": "",
+    "venue": "EMNLP, 2025",
+    "year": 2025,
+    "citations": 5,
     "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:anDooRL1HQEC"
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
+  },
+  {
+    "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
+    "authors": "",
+    "venue": "IEEE Transactions on Automation Science and Engineering, 2025",
+    "year": 2025,
+    "citations": 4,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:wgKq3sYidysC"
   },
   {
     "title": "Flexible and Explainable Graph Analysis for EEG-based Alzheimer's Disease Classification",
@@ -162,15 +207,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:T_0gP6tLVL0C"
   },
   {
-    "title": "Generative AI Empower Addiction-Related Brain Circuits Detection via Graph Diffusion-Infused Adversarial Learning",
-    "authors": "",
-    "venue": "IEEE Transactions on Cybernetics, 2025",
-    "year": 2025,
-    "citations": 3,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:7XUxBq3GufIC"
-  },
-  {
     "title": "Inference of Whole Brain Electrophysiological Networks Through Multimodal Integration of Simultaneous Scalp and Intracranial EEG",
     "authors": "",
     "venue": "NeurIPS, 2025",
@@ -178,24 +214,6 @@
     "citations": 3,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:71d7Y1FijdoC"
-  },
-  {
-    "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
-    "authors": "",
-    "venue": "EMNLP, 2025",
-    "year": 2025,
-    "citations": 3,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
-  },
-  {
-    "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
-    "authors": "",
-    "venue": "IEEE Transactions on Automation Science and Engineering, 2025",
-    "year": 2025,
-    "citations": 2,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:wgKq3sYidysC"
   },
   {
     "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Biomarker Recognition in EEG Brain Networks",
@@ -261,6 +279,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:_n8fIOMweQoC"
   },
   {
+    "title": "Application of uniform experimental design theory to multi-strategy improved sparrow search algorithm for UAV path planning",
+    "authors": "",
+    "venue": "Expert Systems with Applications 255, 124849, 2024",
+    "year": 2024,
+    "citations": 18,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Pqt4MY__2vwC"
+  },
+  {
     "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
     "authors": "",
     "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
@@ -277,15 +304,6 @@
     "citations": 16,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
-  },
-  {
-    "title": "Application of uniform experimental design theory to multi-strategy improved sparrow search algorithm for UAV path planning",
-    "authors": "",
-    "venue": "Expert Systems with Applications 255, 124849, 2024",
-    "year": 2024,
-    "citations": 16,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Pqt4MY__2vwC"
   },
   {
     "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and iEEG",
@@ -319,7 +337,7 @@
     "authors": "",
     "venue": "arXiv preprint arXiv:2403.04785, 2024",
     "year": 2024,
-    "citations": 8,
+    "citations": 9,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CMPXdcK5v8EC"
   },
@@ -328,7 +346,7 @@
     "authors": "",
     "venue": "Journal of the American Academy of Dermatology 90 (2), 288-298, 2024",
     "year": 2024,
-    "citations": 8,
+    "citations": 9,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:w0odbtu79TwC"
   },
@@ -337,7 +355,7 @@
     "authors": "",
     "venue": "IEEE Open Journal of Engineering in Medicine and Biology 5, 792-802, 2024",
     "year": 2024,
-    "citations": 7,
+    "citations": 8,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
   },
@@ -382,7 +400,7 @@
     "authors": "",
     "venue": "46th Annual International Conference of the IEEE EMBC, 2024",
     "year": 2024,
-    "citations": 2,
+    "citations": 3,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:uQVPmWFBlwUC"
   },
@@ -427,7 +445,7 @@
     "authors": "",
     "venue": "Journal of the American Academy of Dermatology 88 (6), 1308-1316, 2023",
     "year": 2023,
-    "citations": 16,
+    "citations": 17,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:6Zm5LS9gQ5UC"
   },
@@ -544,7 +562,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 252, 115047, 2022",
     "year": 2022,
-    "citations": 99,
+    "citations": 102,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:cOfwuRB03ygC"
   },
@@ -553,7 +571,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2022",
     "year": 2022,
-    "citations": 56,
+    "citations": 57,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:FQ36aI_S1AEC"
   },
@@ -562,7 +580,7 @@
     "authors": "",
     "venue": "NPJ precision oncology 6 (1), 79, 2022",
     "year": 2022,
-    "citations": 53,
+    "citations": 55,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IExZWSxeYXUC"
   },
@@ -571,7 +589,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022",
     "year": 2022,
-    "citations": 52,
+    "citations": 53,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-vzq6BoH5oUC"
   },
@@ -661,7 +679,7 @@
     "authors": "",
     "venue": "Control Engineering Practice 107, 104682, 2021",
     "year": 2021,
-    "citations": 128,
+    "citations": 129,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:pxXbYLTb8EgC"
   },
@@ -679,7 +697,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Vehicular Technology 71 (2), 1307-1318, 2021",
     "year": 2021,
-    "citations": 56,
+    "citations": 57,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:U3qCfcK-7lkC"
   },
@@ -715,7 +733,7 @@
     "authors": "",
     "venue": "IEEE Open Journal of Engineering in Medicine and Biology 2, 291-298, 2021",
     "year": 2021,
-    "citations": 24,
+    "citations": 25,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:9VeumLvkZSQC"
   },
@@ -724,7 +742,7 @@
     "authors": "",
     "venue": "Frontiers in Aging Neuroscience, 26, 2021",
     "year": 2021,
-    "citations": 24,
+    "citations": 25,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8gBurD7jEYQC"
   },
@@ -778,7 +796,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Cybernetics, 2020",
     "year": 2020,
-    "citations": 85,
+    "citations": 86,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j7XjBeKFbTsC"
   },
@@ -832,7 +850,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs 67 (6), 1129-1133, 2019",
     "year": 2019,
-    "citations": 184,
+    "citations": 188,
     "topic": "dynamics",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yCjxvIMm6_oC"
   },
@@ -841,7 +859,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 133,
+    "citations": 136,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
@@ -850,7 +868,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 196, 1267-1281, 2019",
     "year": 2019,
-    "citations": 105,
+    "citations": 106,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:urP0JZOBBUsC"
   },
@@ -949,7 +967,7 @@
     "authors": "",
     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 31 (1), 2017",
     "year": 2017,
-    "citations": 20,
+    "citations": 21,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:zdX0sdgBH_kC"
   },
