@@ -1,12 +1,21 @@
 [
   {
-    "title": "Kinematically feasible path planning and robust predefined performance formation control for MAGVs under mixed uncertainties",
+    "title": "Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis",
     "authors": "",
-    "venue": "Expert Systems with Applications, 131904, 2026",
+    "venue": "IEEE Conference on Activity and Behavior Computing, 2026",
     "year": 2026,
     "citations": 1,
-    "topic": "systems",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:43B52WW2E64C"
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:d6JCS5z0ckYC"
+  },
+  {
+    "title": "NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2602.13473, 2026",
+    "year": 2026,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:hrkNWuzUpWwC"
   },
   {
     "title": "Knowledge graph representation of the mappings between seizure semiology and epileptogenic zones",
@@ -47,29 +56,11 @@
   {
     "title": "NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning",
     "authors": "",
-    "venue": "arXiv preprint arXiv:2603.16880, 2026",
+    "venue": "bioRxiv, 2026.03. 07.707799, 2026",
     "year": 2026,
     "citations": 0,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WgvcDLhf7hwC"
-  },
-  {
-    "title": "Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis",
-    "authors": "",
-    "venue": "IEEE Conference on Activity and Behavior Computing, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:d6JCS5z0ckYC"
-  },
-  {
-    "title": "NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines",
-    "authors": "",
-    "venue": "arXiv preprint arXiv:2602.13473, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:hrkNWuzUpWwC"
   },
   {
     "title": "Advances in LLM Reasoning Enable Flexibility in Clinical Problem-Solving",
@@ -94,7 +85,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 95,
+    "citations": 98,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -112,7 +103,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2025",
     "year": 2025,
-    "citations": 23,
+    "citations": 26,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yNlG6JgpFqoC"
   },
@@ -144,22 +135,22 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
-    "title": "BG-GAN: generative AI enable representing brain structure-function connections for Alzheimer’s disease",
-    "authors": "",
-    "venue": "IEEE Transactions on Consumer Electronics, 2025",
-    "year": 2025,
-    "citations": 8,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-LHtoeeytlUC"
-  },
-  {
     "title": "mgnn-bw: Multi-scale graph neural network based on biased random walk path aggregation for asd diagnosis",
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2025",
     "year": 2025,
-    "citations": 7,
+    "citations": 9,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:q09DtPQ_434C"
+  },
+  {
+    "title": "BG-GAN: generative AI enable representing brain structure-function connections for Alzheimer’s disease",
+    "authors": "",
+    "venue": "IEEE Transactions on Consumer Electronics, 2025",
+    "year": 2025,
+    "citations": 9,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-LHtoeeytlUC"
   },
   {
     "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
@@ -171,6 +162,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
   },
   {
+    "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
+    "authors": "",
+    "venue": "EMNLP, 2025",
+    "year": 2025,
+    "citations": 6,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
+  },
+  {
     "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
     "authors": "",
     "venue": "arXiv preprint arXiv:2510.16658, 2025",
@@ -178,15 +178,6 @@
     "citations": 5,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:AubyX3KqGToC"
-  },
-  {
-    "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
-    "authors": "",
-    "venue": "EMNLP, 2025",
-    "year": 2025,
-    "citations": 5,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
   },
   {
     "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
@@ -225,6 +216,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:zfsRRabFVBUC"
   },
   {
+    "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders",
+    "authors": "",
+    "venue": "ICML, 2025",
+    "year": 2025,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:xlVdBZVQT58C"
+  },
+  {
     "title": "RPRO: Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning",
     "authors": "",
     "venue": "NeurIPS 2025 Workshop GenAI4Health, 2025",
@@ -234,20 +234,11 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8rLWgkbgOXQC"
   },
   {
-    "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders",
-    "authors": "",
-    "venue": "ICML, 2025",
-    "year": 2025,
-    "citations": 0,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:xlVdBZVQT58C"
-  },
-  {
     "title": "Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records",
     "authors": "",
     "venue": "Scientific Reports 14 (1), 20774, 2024",
     "year": 2024,
-    "citations": 41,
+    "citations": 42,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
   },
@@ -256,7 +247,7 @@
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
     "year": 2024,
-    "citations": 25,
+    "citations": 27,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
   },
@@ -265,7 +256,7 @@
     "authors": "",
     "venue": "Expert Systems with Applications 238, 121714, 2024",
     "year": 2024,
-    "citations": 23,
+    "citations": 24,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CLhUwle04lcC"
   },
@@ -310,7 +301,7 @@
     "authors": "",
     "venue": "NeuroImage 299, 120802, 2024",
     "year": 2024,
-    "citations": 15,
+    "citations": 16,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Dmoar05iI2YC"
   },
@@ -360,6 +351,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
   },
   {
+    "title": "Spatial Craving Patterns in Marijuana Users: Insights from fMRI Brain Connectivity Analysis with High-Order Graph Attention Neural Networks",
+    "authors": "",
+    "venue": "IEEE Journal of Biomedical and Health Informatics, 2024",
+    "year": 2024,
+    "citations": 6,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:r56sNq9gaawC"
+  },
+  {
     "title": "Rejuvenating classical brain electrophysiology source localization methods with spatial graph Fourier filters for source extents estimation",
     "authors": "",
     "venue": "Brain Informatics 11 (1), 8, 2024",
@@ -367,15 +367,6 @@
     "citations": 6,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DPO9WFcz7UcC"
-  },
-  {
-    "title": "Spatial Craving Patterns in Marijuana Users: Insights from fMRI Brain Connectivity Analysis with High-Order Graph Attention Neural Networks",
-    "authors": "",
-    "venue": "IEEE Journal of Biomedical and Health Informatics, 2024",
-    "year": 2024,
-    "citations": 5,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:r56sNq9gaawC"
   },
   {
     "title": "Empowering Sleep Health: Unleashing the Potential of Artificial Intelligence and Data Science in Sleep Disorders",
@@ -436,7 +427,7 @@
     "authors": "",
     "venue": "Information Sciences 643, 119160, 2023",
     "year": 2023,
-    "citations": 86,
+    "citations": 87,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:k8to_Y4Q4_EC"
   },
@@ -598,7 +589,7 @@
     "authors": "",
     "venue": "Frontiers in neuroscience 16, 867466, 2022",
     "year": 2022,
-    "citations": 41,
+    "citations": 42,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:uEM9VtRl8xsC"
   },
@@ -850,7 +841,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs 67 (6), 1129-1133, 2019",
     "year": 2019,
-    "citations": 188,
+    "citations": 187,
     "topic": "dynamics",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yCjxvIMm6_oC"
   },
@@ -859,7 +850,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 136,
+    "citations": 138,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
@@ -949,7 +940,7 @@
     "authors": "",
     "venue": "PloS one 12 (7), e0181747, 2017",
     "year": 2017,
-    "citations": 114,
+    "citations": 115,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IHkkN1K1AlAC"
   },
