@@ -85,7 +85,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 98,
+    "citations": 99,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -135,6 +135,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
+    "title": "BG-GAN: generative AI enable representing brain structure-function connections for Alzheimer’s disease",
+    "authors": "",
+    "venue": "IEEE Transactions on Consumer Electronics, 2025",
+    "year": 2025,
+    "citations": 10,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-LHtoeeytlUC"
+  },
+  {
     "title": "mgnn-bw: Multi-scale graph neural network based on biased random walk path aggregation for asd diagnosis",
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2025",
@@ -142,15 +151,6 @@
     "citations": 9,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:q09DtPQ_434C"
-  },
-  {
-    "title": "BG-GAN: generative AI enable representing brain structure-function connections for Alzheimer’s disease",
-    "authors": "",
-    "venue": "IEEE Transactions on Consumer Electronics, 2025",
-    "year": 2025,
-    "citations": 9,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-LHtoeeytlUC"
   },
   {
     "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
@@ -238,7 +238,7 @@
     "authors": "",
     "venue": "Scientific Reports 14 (1), 20774, 2024",
     "year": 2024,
-    "citations": 42,
+    "citations": 43,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
   },
