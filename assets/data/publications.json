@@ -85,7 +85,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 99,
+    "citations": 103,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -103,7 +103,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2025",
     "year": 2025,
-    "citations": 26,
+    "citations": 28,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yNlG6JgpFqoC"
   },
@@ -279,6 +279,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Pqt4MY__2vwC"
   },
   {
+    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
+    "authors": "",
+    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
+    "year": 2024,
+    "citations": 17,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
+  },
+  {
     "title": "Parkinson Disease classification Using Contrastive Graph Cross-View Learning with Multimodal Fusion of SPECT Images and Clinical Features",
     "authors": "",
     "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 2024",
@@ -286,15 +295,6 @@
     "citations": 17,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:tFzHCjejgA0C"
-  },
-  {
-    "title": "M3T-LM: A multi-modal multi-task learning model for jointly predicting patient length of stay and mortality",
-    "authors": "",
-    "venue": "Computers in Biology and Medicine 183, 109237, 2024",
-    "year": 2024,
-    "citations": 16,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:eIKNFFVQvJAC"
   },
   {
     "title": "XDL-ESI: Electrophysiological sources imaging via explainable deep learning framework with validation on simultaneous EEG and iEEG",
@@ -427,7 +427,7 @@
     "authors": "",
     "venue": "Information Sciences 643, 119160, 2023",
     "year": 2023,
-    "citations": 87,
+    "citations": 89,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:k8to_Y4Q4_EC"
   },
@@ -553,7 +553,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 252, 115047, 2022",
     "year": 2022,
-    "citations": 102,
+    "citations": 104,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:cOfwuRB03ygC"
   },
@@ -940,7 +940,7 @@
     "authors": "",
     "venue": "PloS one 12 (7), e0181747, 2017",
     "year": 2017,
-    "citations": 115,
+    "citations": 116,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IHkkN1K1AlAC"
   },
