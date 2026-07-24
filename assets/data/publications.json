@@ -85,7 +85,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 104,
+    "citations": 107,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -139,7 +139,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Consumer Electronics, 2025",
     "year": 2025,
-    "citations": 10,
+    "citations": 11,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-LHtoeeytlUC"
   },
@@ -184,7 +184,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Automation Science and Engineering, 2025",
     "year": 2025,
-    "citations": 4,
+    "citations": 5,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:wgKq3sYidysC"
   },
@@ -207,6 +207,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:71d7Y1FijdoC"
   },
   {
+    "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders",
+    "authors": "",
+    "venue": "ICML, 2025",
+    "year": 2025,
+    "citations": 2,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:xlVdBZVQT58C"
+  },
+  {
     "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Biomarker Recognition in EEG Brain Networks",
     "authors": "",
     "venue": "arXiv preprint arXiv:2510.11917, 2025",
@@ -214,15 +223,6 @@
     "citations": 1,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:zfsRRabFVBUC"
-  },
-  {
-    "title": "NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders",
-    "authors": "",
-    "venue": "ICML, 2025",
-    "year": 2025,
-    "citations": 1,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:xlVdBZVQT58C"
   },
   {
     "title": "RPRO: Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning",
@@ -958,7 +958,7 @@
     "authors": "",
     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 31 (1), 2017",
     "year": 2017,
-    "citations": 21,
+    "citations": 22,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:zdX0sdgBH_kC"
   },
