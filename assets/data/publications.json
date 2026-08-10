@@ -85,7 +85,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 114,
+    "citations": 118,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -94,7 +94,7 @@
     "authors": "",
     "venue": "ACL 2025, 2025",
     "year": 2025,
-    "citations": 32,
+    "citations": 33,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:qhW0HyKmSusC"
   },
@@ -108,6 +108,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
   {
+    "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
+    "authors": "",
+    "venue": "Cell Reports Medicine, 2025",
+    "year": 2025,
+    "citations": 12,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
+  },
+  {
     "title": "Enhancing Multimodal Medical Image Classification through Cross-Graph Modal Contrastive Learning",
     "authors": "",
     "venue": "Expert Systems with Applications, 2025",
@@ -115,15 +124,6 @@
     "citations": 12,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
-  },
-  {
-    "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
-    "authors": "",
-    "venue": "Cell Reports Medicine, 2025",
-    "year": 2025,
-    "citations": 11,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
     "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
@@ -191,7 +191,7 @@
   {
     "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Biomarker Recognition in EEG Brain Networks",
     "authors": "",
-    "venue": "arXiv preprint arXiv:2510.11917, 2025",
+    "venue": "arXiv e-prints, arXiv: 2510.11917, 2025",
     "year": 2025,
     "citations": 1,
     "topic": "neuroscience",
@@ -220,7 +220,7 @@
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
     "year": 2024,
-    "citations": 30,
+    "citations": 31,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
   },
@@ -270,6 +270,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
   },
   {
+    "title": "Deep attention networks with multi-temporal information fusion for sleep apnea detection",
+    "authors": "",
+    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 5, 792-802, 2024",
+    "year": 2024,
+    "citations": 9,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
+  },
+  {
     "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
     "authors": "",
     "venue": "arXiv preprint arXiv:2403.04785, 2024",
@@ -286,15 +295,6 @@
     "citations": 9,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:w0odbtu79TwC"
-  },
-  {
-    "title": "Deep attention networks with multi-temporal information fusion for sleep apnea detection",
-    "authors": "",
-    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 5, 792-802, 2024",
-    "year": 2024,
-    "citations": 8,
-    "topic": "systems",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
   },
   {
     "title": "Spatial Craving Patterns in Marijuana Users: Insights from fMRI Brain Connectivity Analysis with High-Order Graph Attention Neural Networks",
@@ -508,7 +508,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2022",
     "year": 2022,
-    "citations": 57,
+    "citations": 59,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:FQ36aI_S1AEC"
   },
@@ -526,7 +526,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022",
     "year": 2022,
-    "citations": 53,
+    "citations": 54,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-vzq6BoH5oUC"
   },
@@ -544,7 +544,7 @@
     "authors": "",
     "venue": "Renewable Energy 182, 787-796, 2022",
     "year": 2022,
-    "citations": 30,
+    "citations": 31,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8JTMrWI6FdcC"
   },
@@ -796,7 +796,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 136,
+    "citations": 137,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
@@ -976,7 +976,7 @@
     "authors": "",
     "venue": "2013 IEEE Global Conference on Signal and Information Processing, 531-534, 2013",
     "year": 2013,
-    "citations": 6,
+    "citations": 7,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:HqhvjgTjE9cC"
   },
