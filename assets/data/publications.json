@@ -85,7 +85,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 118,
+    "citations": 121,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -108,6 +108,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:09LM3QYkMKUC"
   },
   {
+    "title": "Enhancing Multimodal Medical Image Classification through Cross-Graph Modal Contrastive Learning",
+    "authors": "",
+    "venue": "Expert Systems with Applications, 2025",
+    "year": 2025,
+    "citations": 13,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
+  },
+  {
     "title": "Contrastive functional connectivity defines neurophysiology-informed symptom dimensions in major depression",
     "authors": "",
     "venue": "Cell Reports Medicine, 2025",
@@ -117,13 +126,13 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
-    "title": "Enhancing Multimodal Medical Image Classification through Cross-Graph Modal Contrastive Learning",
+    "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
     "authors": "",
-    "venue": "Expert Systems with Applications, 2025",
+    "venue": "EMNLP, 2025",
     "year": 2025,
-    "citations": 12,
+    "citations": 7,
     "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:lPDSu1ZU3VAC"
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
   },
   {
     "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
@@ -135,13 +144,13 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
   },
   {
-    "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
+    "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
     "authors": "",
-    "venue": "EMNLP, 2025",
+    "venue": "arXiv e-prints, arXiv: 2510.16658, 2025",
     "year": 2025,
     "citations": 6,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:AubyX3KqGToC"
   },
   {
     "title": "Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse grained Labels",
@@ -151,15 +160,6 @@
     "citations": 6,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:wgKq3sYidysC"
-  },
-  {
-    "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
-    "authors": "",
-    "venue": "arXiv e-prints, arXiv: 2510.16658, 2025",
-    "year": 2025,
-    "citations": 5,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:AubyX3KqGToC"
   },
   {
     "title": "Flexible and Explainable Graph Analysis for EEG-based Alzheimer's Disease Classification",
@@ -211,7 +211,7 @@
     "authors": "",
     "venue": "Scientific Reports 14 (1), 20774, 2024",
     "year": 2024,
-    "citations": 43,
+    "citations": 44,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
   },
@@ -220,7 +220,7 @@
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
     "year": 2024,
-    "citations": 31,
+    "citations": 32,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
   },
@@ -261,6 +261,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PklR0melJeUC"
   },
   {
+    "title": "Deep attention networks with multi-temporal information fusion for sleep apnea detection",
+    "authors": "",
+    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 5, 792-802, 2024",
+    "year": 2024,
+    "citations": 10,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
+  },
+  {
     "title": "EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists",
     "authors": "",
     "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
@@ -268,15 +277,6 @@
     "citations": 9,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
-  },
-  {
-    "title": "Deep attention networks with multi-temporal information fusion for sleep apnea detection",
-    "authors": "",
-    "venue": "IEEE Open Journal of Engineering in Medicine and Biology 5, 792-802, 2024",
-    "year": 2024,
-    "citations": 9,
-    "topic": "systems",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
   },
   {
     "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
@@ -387,6 +387,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:6Zm5LS9gQ5UC"
   },
   {
+    "title": "Analysis and Realization of New Memristive Chaotic System with Line Equilibria and Coexisting Attractors",
+    "authors": "",
+    "venue": "Journal of Vibration Engineering & Technologies 11 (7), 3493-3505, 2023",
+    "year": 2023,
+    "citations": 8,
+    "topic": "dynamics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:EsrhoZGmrkoC"
+  },
+  {
     "title": "Electrophysiological Brain Source Imaging via Combinatorial Search with Provable Optimality",
     "authors": "",
     "venue": "AAAI, 2023",
@@ -394,15 +403,6 @@
     "citations": 8,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Oj-SLI0tZTcC"
-  },
-  {
-    "title": "Analysis and Realization of New Memristive Chaotic System with Line Equilibria and Coexisting Attractors",
-    "authors": "",
-    "venue": "Journal of Vibration Engineering & Technologies 11 (7), 3493-3505, 2023",
-    "year": 2023,
-    "citations": 7,
-    "topic": "dynamics",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:EsrhoZGmrkoC"
   },
   {
     "title": "Brain Informatics: 16th International Conference, BI 2023, Hoboken, NJ, USA (ISSN: 0302-9743)",
@@ -562,7 +562,7 @@
     "authors": "",
     "venue": "Frontiers in Neuroscience, 1412, 2022",
     "year": 2022,
-    "citations": 7,
+    "citations": 8,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:PZE8UkGerEcC"
   },
@@ -760,7 +760,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Automatic Control 66 (4), 1902-1909, 2020",
     "year": 2020,
-    "citations": 27,
+    "citations": 28,
     "topic": "systems",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:TiIbgCYny7sC"
   },
