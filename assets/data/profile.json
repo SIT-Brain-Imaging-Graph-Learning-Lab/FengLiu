@@ -1,25 +1,21 @@
 {
   "hero": {
     "role": "Assistant Professor",
-    "department": "Department of Systems Engineering",
-    "school": "Charles V. Schaefer, Jr. School of Engineering and Science",
-    "institution": "Stevens Institute of Technology",
+    "department": "Department of Industrial and Systems Engineering",
+    "school": "School of Engineering",
+    "institution": "Rutgers University–New Brunswick",
     "name": "Feng Liu",
     "motto": "At the intersection of systems, signals, and the mind.",
-    "school_short": "Schaefer School of Engineering and Science",
+    "school_short": "Rutgers School of Engineering",
     "contacts": [
-      { "icon": "mail",    "label": "Email",          "value": "fliu22@stevens.edu",                                     "href": "mailto:fliu22@stevens.edu" },
-      { "icon": "scholar", "label": "Google Scholar", "value": "Google Scholar",                                         "href": "https://scholar.google.com/citations?user=HVZdbX0AAAAJ&hl=en" },
-      { "icon": "stevens", "label": "Stevens Profile","value": "Stevens Profile",                                        "href": "https://www.stevens.edu/profile/fliu22" },
-      { "icon": "lab",     "label": "AI Epilepsy Lab","value": "AI Epilepsy Lab",                                        "href": "https://aiepilepsy.stevens.edu/" },
-      { "icon": "pin",     "label": "Office",         "value": "North Building 206" },
-      { "icon": "phone",   "label": "Phone",          "value": "(201) 216-8009",                                         "href": "tel:+12012168009" }
+      { "icon": "mail",    "label": "Email",          "value": "feng.liu@rutgers.edu",                                   "href": "mailto:feng.liu@rutgers.edu" },
+      { "icon": "scholar", "label": "Google Scholar", "value": "Google Scholar",                                         "href": "https://scholar.google.com/citations?user=HVZdbX0AAAAJ&hl=en" }
     ]
   },
   "about": {
     "heading": "About",
     "bio": [
-      "Dr. Feng Liu is an Assistant Professor of Systems Engineering at Stevens Institute of Technology. Dr. Liu was a Postdoctoral Research Fellow at Harvard Medical School from 2018 to 2020. In the meantime, Dr. Liu was research affiliate at Picower Institute for Learning and Memory at MIT and Martinos Center for Biomedical Imaging at MGH. Dr. Liu received his Ph.D. degree from the University of Texas at Arlington in Industrial Engineering in 2018 with a focus on machine learning for healthcare.",
+      "Dr. Feng Liu is an Assistant Professor in the Department of Industrial and Systems Engineering at Rutgers University–New Brunswick. Prior to joining Rutgers, he was an Assistant Professor of Systems Engineering at Stevens Institute of Technology. Dr. Liu was a Postdoctoral Research Fellow at Harvard Medical School from 2018 to 2020. In the meantime, Dr. Liu was research affiliate at Picower Institute for Learning and Memory at MIT and Martinos Center for Biomedical Imaging at MGH. Dr. Liu received his Ph.D. degree from the University of Texas at Arlington in Industrial Engineering in 2018 with a focus on machine learning for healthcare.",
       "His research interests include brain network analysis, brain imaging, inverse problem, health informatics, and dynamic system. Dr. Liu is the winner of the Best Paper Award at 11th International Conference of Brain Informatics in 2018, and the Best Paper Award of INFORMS Data Mining Society in 2019.",
       "Dr. Liu's research group has received multiple grants from NIH (NINDS, NIBIB, BRAIN Initiative), DoD and New Jersey Health Foundation as PI, MPI, or Co-I."
     ]
@@ -45,6 +41,8 @@
       { "year": "2018", "label": "Ph.D., Industrial Engineering", "institution": "University of Texas at Arlington" }
     ],
     "experience": [
+      { "year": "2026 — Now",  "role": "Assistant Professor",               "institution": "Rutgers University–New Brunswick",       "location": "Piscataway, NJ" },
+      { "year": "2020 — 2026", "role": "Assistant Professor",               "institution": "Stevens Institute of Technology",        "location": "Hoboken, NJ" },
       { "year": "2018 — 2020", "role": "Postdoctoral Researcher",           "institution": "MGH / Harvard Medical School",           "location": "Boston, MA" },
       { "year": "2018 — 2020", "role": "Research Affiliate",                "institution": "Massachusetts Institute of Technology",  "location": "Cambridge, MA" },
       { "year": "2015 — 2016", "role": "Data Science / Operations Intern", "institution": "CSX Transportation",                     "location": "Jacksonville, FL" }
@@ -88,9 +86,7 @@
     "heading": "Highlighted Project",
     "badge": "AI × Neurology",
     "title": "First fine-tuned large language model for seizure semiology interpretation and epileptogenic-zone prediction",
-    "body": "In collaboration with clinical partners, our group developed the first fine-tuned large language model to interpret seizure semiology and localize the epileptogenic zone — turning unstructured clinical narratives into actionable diagnostic signals for epilepsy surgery evaluation.",
-    "url": "https://aiepilepsy.stevens.edu/",
-    "cta": "Visit the AI Epilepsy Lab"
+    "body": "In collaboration with clinical partners, our group developed the first fine-tuned large language model to interpret seizure semiology and localize the epileptogenic zone — turning unstructured clinical narratives into actionable diagnostic signals for epilepsy surgery evaluation."
   },
   "service": {
     "heading": "Editorial & Service",

@@ -1,8 +1,8 @@
 # Feng Liu — Personal Academic Homepage
 
-Source for the academic homepage of **Dr. Feng Liu**, Assistant Professor of Systems Engineering at Stevens Institute of Technology. Neuroscience-themed, scroll-driven, with auto-synced Google Scholar publications.
+Source for the academic homepage of **Dr. Feng Liu**, Assistant Professor of Industrial and Systems Engineering at Rutgers University–New Brunswick. Neuroscience-themed, scroll-driven, with auto-synced Google Scholar publications.
 
-**Live URL (after Pages is enabled):** https://sit-brain-imaging-graph-learning-lab.github.io/FengLiu/
+**Live URL (after Pages is enabled):** https://rutgers-ninc-lab.github.io/FengLiu/
 
 ## Deploy on GitHub Pages
 
@@ -71,3 +71,7 @@ python -m http.server 8080
 ├── scripts/fetch_scholar.py
 └── .github/workflows/update-scholar.yml
 ```
+
+## Credits
+
+Hero background photo: [“Old Queens - Rutgers University”](https://commons.wikimedia.org/wiki/File:Old_Queens_-_Rutgers_University_(55142886116).jpg) by [ajay_suresh](https://www.flickr.com/people/83136374@N05), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons (resized).

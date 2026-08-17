@@ -198,7 +198,7 @@
   background: var(--bg-0);
   isolation: isolate;
 }
-/* Faint Stevens campus watermark — Hudson + Manhattan skyline */
+/* Faint Rutgers campus watermark — Old Queens, New Brunswick */
 .hero::before {
   content: "";
   position: absolute;
@@ -232,7 +232,7 @@
   padding: 0 var(--gutter);
 }
 
-/* Stevens crest block above name */
+/* Rutgers Block R above name */
 .hero__crest {
   display: flex;
   align-items: center;

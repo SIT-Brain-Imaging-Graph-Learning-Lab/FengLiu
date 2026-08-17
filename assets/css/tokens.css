@@ -14,9 +14,8 @@
   --accent: #FFFFFF;
   --accent-subtle: #E5E5EA;
 
-  /* Heritage (Stevens crest only — not used as UI accent) */
-  --crimson: #9D1535;
-  --gold-crest: #B8A36A;
+  /* Heritage (Rutgers Block R only — not used as UI accent) */
+  --scarlet: #CC0033;
 
   /* Hairlines */
   --hairline:        rgba(245, 245, 247, 0.08);
