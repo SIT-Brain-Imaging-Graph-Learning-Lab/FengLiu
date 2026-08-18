@@ -9,6 +9,24 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:hrkNWuzUpWwC"
   },
   {
+    "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Recognition across Frequency Bands in EEG Brain Networks",
+    "authors": "",
+    "venue": "IEEE Transactions on Automation Science and Engineering, 2026",
+    "year": 2026,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:jtOrAYjvdewC"
+  },
+  {
+    "title": "Kinematically feasible path planning and robust predefined performance formation control for MAGVs under mixed uncertainties",
+    "authors": "",
+    "venue": "Expert Systems with Applications, 131904, 2026",
+    "year": 2026,
+    "citations": 1,
+    "topic": "systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Y0RG-0fxPaAC"
+  },
+  {
     "title": "Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis",
     "authors": "",
     "venue": "IEEE Conference on Activity and Behavior Computing, 2026",
@@ -52,6 +70,15 @@
     "citations": 0,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:2_BaaiyHPJIC"
+  },
+  {
+    "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs",
+    "authors": "",
+    "venue": "COLM, 2026",
+    "year": 2026,
+    "citations": 0,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:M8meJADSprsC"
   },
   {
     "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
@@ -126,6 +153,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:WGv8Og3F3KgC"
   },
   {
+    "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
+    "authors": "",
+    "venue": "Health Information Science and Systems, 2025",
+    "year": 2025,
+    "citations": 8,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
+  },
+  {
     "title": "No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery",
     "authors": "",
     "venue": "EMNLP, 2025",
@@ -133,15 +169,6 @@
     "citations": 7,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Kv9jytqXTosC"
-  },
-  {
-    "title": "CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction",
-    "authors": "",
-    "venue": "Health Information Science and Systems, 2025",
-    "year": 2025,
-    "citations": 7,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
   },
   {
     "title": "Foundation and Large-Scale AI Models in Neuroscience: A Comprehensive Review",
@@ -211,7 +238,7 @@
     "authors": "",
     "venue": "Scientific Reports 14 (1), 20774, 2024",
     "year": 2024,
-    "citations": 44,
+    "citations": 46,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
   },
@@ -349,6 +376,15 @@
     "citations": 1,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:cx97FdCJQX8C"
+  },
+  {
+    "title": "Analyzing resting-state fmri data in marijuana users via high-order attention brain network",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2403.00033, 2024",
+    "year": 2024,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwFgw5hZUzMC"
   },
   {
     "title": "Identification of Craving Maps among Marijuana Users via the Analysis of Functional Brain Networks with High-Order Attention Graph Neural Networks",
@@ -517,7 +553,7 @@
     "authors": "",
     "venue": "NPJ precision oncology 6 (1), 79, 2022",
     "year": 2022,
-    "citations": 55,
+    "citations": 56,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:IExZWSxeYXUC"
   },
