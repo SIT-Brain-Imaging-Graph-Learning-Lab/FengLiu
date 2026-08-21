@@ -137,13 +137,21 @@ function hydrate(profile) {
   setText('[data-bind="students.heading"]', profile.students.heading);
   setText('[data-bind="students.intro"]', profile.students.intro);
   const studentsEl = document.querySelector('[data-bind="students.items"]');
-  if (studentsEl) studentsEl.innerHTML = profile.students.items.map(s => `
-    <div class="student">
+  if (studentsEl) studentsEl.innerHTML = profile.students.items.map(s => {
+    const card = `
       <div class="student__avatar">${escapeHtml(initials(s.name))}</div>
       <div class="student__name">${escapeHtml(s.name)}</div>
       <div class="student__year">Joined ${escapeHtml(s.year)}</div>
-    </div>
-  `).join('');
+    `;
+    if (!s.url) return `<div class="student">${card}</div>`;
+    return `
+      <a class="student student--link" href="${escapeHtml(s.url)}" target="_blank" rel="noopener"
+         aria-label="${escapeHtml(s.name)} — personal homepage">
+        ${card}
+        <span class="student__link">Homepage ↗</span>
+      </a>
+    `;
+  }).join('');
 }
 
 function initials(name) {

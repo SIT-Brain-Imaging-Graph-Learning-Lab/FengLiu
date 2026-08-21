@@ -154,9 +154,9 @@
     "heading": "PhD Students",
     "intro": "I am fortunate to work with multiple talented PhD students from very diverse backgrounds — Electrical Engineering, Control, AI, Biomedical Engineering, Computer Science, Mathematics, and more.",
     "items": [
-      { "name": "Shihao Yang",  "year": "2023" },
-      { "name": "Jun-En Ding", "year": "2023" },
-      { "name": "Guoan Wang",  "year": "2025" },
+      { "name": "Shihao Yang", "year": "2023" },
+      { "name": "Jun-En Ding", "year": "2023", "url": "https://www.jun-ending.com/" },
+      { "name": "Guoan Wang",  "year": "2025", "url": "https://tousenkaname.github.io/" },
       { "name": "Hao Zhu",     "year": "2025" }
     ]
   }
