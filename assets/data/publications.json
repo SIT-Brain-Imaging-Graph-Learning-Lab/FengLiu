@@ -18,6 +18,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:jtOrAYjvdewC"
   },
   {
+    "title": "Large-Scale AI and Foundation Models for Neuroscience: A Comprehensive Review",
+    "authors": "",
+    "venue": "Meta-Radiology, 100224, 2026",
+    "year": 2026,
+    "citations": 1,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-qpA3cGbmHsC"
+  },
+  {
     "title": "Kinematically feasible path planning and robust predefined performance formation control for MAGVs under mixed uncertainties",
     "authors": "",
     "venue": "Expert Systems with Applications, 131904, 2026",
@@ -61,15 +70,6 @@
     "citations": 0,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:JavbeY_VQWIC"
-  },
-  {
-    "title": "Large-Scale AI and Foundation Models for Neuroscience: A Comprehensive Review",
-    "authors": "",
-    "venue": "Meta-Radiology, 100224, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-qpA3cGbmHsC"
   },
   {
     "title": "Advances in LLM Reasoning Enable Flexibility in Clinical Problem-Solving",
@@ -121,7 +121,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 122,
+    "citations": 125,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -202,7 +202,7 @@
     "authors": "",
     "venue": "arXiv preprint arXiv:2504.01329, 2025",
     "year": 2025,
-    "citations": 4,
+    "citations": 5,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:T_0gP6tLVL0C"
   },
@@ -247,7 +247,7 @@
     "authors": "",
     "venue": "Scientific Reports 14 (1), 20774, 2024",
     "year": 2024,
-    "citations": 47,
+    "citations": 48,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:ON9TkA72AHEC"
   },
@@ -265,7 +265,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 2492-2502, 2024",
     "year": 2024,
-    "citations": 20,
+    "citations": 21,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:_n8fIOMweQoC"
   },
@@ -306,6 +306,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:sfsSB7lKuh0C"
   },
   {
+    "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
+    "authors": "",
+    "venue": "arXiv preprint arXiv:2403.04785, 2024",
+    "year": 2024,
+    "citations": 10,
+    "topic": "other",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CMPXdcK5v8EC"
+  },
+  {
     "title": "EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists",
     "authors": "",
     "venue": "medRxiv: https://doi.org/10.1101/2024.09.16.24313764, 2024",
@@ -313,15 +322,6 @@
     "citations": 9,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:Zbx7W2Xs4QsC"
-  },
-  {
-    "title": "Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data",
-    "authors": "",
-    "venue": "arXiv preprint arXiv:2403.04785, 2024",
-    "year": 2024,
-    "citations": 9,
-    "topic": "other",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:CMPXdcK5v8EC"
   },
   {
     "title": "Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma",
@@ -333,6 +333,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:w0odbtu79TwC"
   },
   {
+    "title": "Rejuvenating classical brain electrophysiology source localization methods with spatial graph Fourier filters for source extents estimation",
+    "authors": "",
+    "venue": "Brain Informatics 11 (1), 8, 2024",
+    "year": 2024,
+    "citations": 7,
+    "topic": "neuroscience",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DPO9WFcz7UcC"
+  },
+  {
     "title": "Spatial Craving Patterns in Marijuana Users: Insights from fMRI Brain Connectivity Analysis with High-Order Graph Attention Neural Networks",
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics, 2024",
@@ -340,15 +349,6 @@
     "citations": 6,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:r56sNq9gaawC"
-  },
-  {
-    "title": "Rejuvenating classical brain electrophysiology source localization methods with spatial graph Fourier filters for source extents estimation",
-    "authors": "",
-    "venue": "Brain Informatics 11 (1), 8, 2024",
-    "year": 2024,
-    "citations": 6,
-    "topic": "neuroscience",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DPO9WFcz7UcC"
   },
   {
     "title": "Empowering Sleep Health: Unleashing the Potential of Artificial Intelligence and Data Science in Sleep Disorders",
@@ -418,7 +418,7 @@
     "authors": "",
     "venue": "Information Sciences 643, 119160, 2023",
     "year": 2023,
-    "citations": 91,
+    "citations": 92,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:k8to_Y4Q4_EC"
   },
@@ -553,7 +553,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2022",
     "year": 2022,
-    "citations": 59,
+    "citations": 60,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:FQ36aI_S1AEC"
   },
@@ -580,7 +580,7 @@
     "authors": "",
     "venue": "Frontiers in neuroscience 16, 867466, 2022",
     "year": 2022,
-    "citations": 41,
+    "citations": 42,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:uEM9VtRl8xsC"
   },
@@ -724,7 +724,7 @@
     "authors": "",
     "venue": "IEEE Open Journal of Engineering in Medicine and Biology 2, 291-298, 2021",
     "year": 2021,
-    "citations": 23,
+    "citations": 24,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:9VeumLvkZSQC"
   },
@@ -778,7 +778,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Cybernetics, 2020",
     "year": 2020,
-    "citations": 90,
+    "citations": 91,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:j7XjBeKFbTsC"
   },
@@ -796,7 +796,7 @@
     "authors": "",
     "venue": "IEEE Journal of Biomedical and Health Informatics 25 (1), 237-246, 2020",
     "year": 2020,
-    "citations": 33,
+    "citations": 34,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:o9ULDYDKYbIC"
   },
@@ -832,7 +832,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs 67 (6), 1129-1133, 2019",
     "year": 2019,
-    "citations": 192,
+    "citations": 193,
     "topic": "dynamics",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yCjxvIMm6_oC"
   },
