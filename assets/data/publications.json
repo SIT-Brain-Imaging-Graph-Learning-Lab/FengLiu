@@ -27,6 +27,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:-qpA3cGbmHsC"
   },
   {
+    "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs",
+    "authors": "",
+    "venue": "COLM, 2026",
+    "year": 2026,
+    "citations": 1,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:M8meJADSprsC"
+  },
+  {
     "title": "Kinematically feasible path planning and robust predefined performance formation control for MAGVs under mixed uncertainties",
     "authors": "",
     "venue": "Expert Systems with Applications, 131904, 2026",
@@ -81,15 +90,6 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:2_BaaiyHPJIC"
   },
   {
-    "title": "MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs",
-    "authors": "",
-    "venue": "COLM, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:M8meJADSprsC"
-  },
-  {
     "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
     "authors": "",
     "venue": "IEEE Transactions on Artificial Intelligence, 2026",
@@ -121,7 +121,7 @@
     "authors": "",
     "venue": "Scientific Report, 2025",
     "year": 2025,
-    "citations": 125,
+    "citations": 128,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:DwWRdx-KAo4C"
   },
@@ -166,7 +166,7 @@
     "authors": "",
     "venue": "Health Information Science and Systems, 2025",
     "year": 2025,
-    "citations": 8,
+    "citations": 9,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:rDsFeusoTZkC"
   },
@@ -256,7 +256,7 @@
     "authors": "",
     "venue": "Conference on Information and Knowledge Management (Short paper), 2024",
     "year": 2024,
-    "citations": 33,
+    "citations": 34,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:aU4yMueWZ3QC"
   },
@@ -427,7 +427,7 @@
     "authors": "",
     "venue": "Journal of the American Academy of Dermatology 88 (6), 1308-1316, 2023",
     "year": 2023,
-    "citations": 17,
+    "citations": 18,
     "topic": "other",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:6Zm5LS9gQ5UC"
   },
@@ -553,7 +553,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2022",
     "year": 2022,
-    "citations": 60,
+    "citations": 61,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:FQ36aI_S1AEC"
   },
