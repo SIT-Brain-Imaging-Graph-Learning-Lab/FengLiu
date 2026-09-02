@@ -1,6 +1,6 @@
 # Feng Liu — Personal Academic Homepage
 
-Source for the academic homepage of **Dr. Feng Liu**, Assistant Professor of Industrial and Systems Engineering at Rutgers University–New Brunswick. Neuroscience-themed, scroll-driven, with auto-synced Google Scholar publications.
+Source for the academic homepage of **Dr. Feng Liu**, Assistant Professor of Industrial and Systems Engineering at Rutgers University–New Brunswick. A plain, white-background academic homepage set in Source Serif 4, with auto-synced Google Scholar publications. No build step.
 
 **Live URL (after Pages is enabled):** https://rutgers-ninc-lab.github.io/FengLiu/
 
@@ -60,18 +60,15 @@ python -m http.server 8080
 ```
 .
 ├── index.html              # single-page entry (all sections)
-├── 404.html                # themed fallback (uses <base href="/FengLiu/">)
+├── 404.html                # fallback page (uses <base href="/FengLiu/">)
 ├── .nojekyll               # disables Jekyll processing
 ├── CNAME.example           # rename to CNAME if using a custom domain
 ├── assets/
-│   ├── css/                # tokens, base, components, sections, motion
-│   ├── js/                 # canvas bg, scroll, publications, interests graph, bootstrap
-│   ├── img/                # portrait, campus watermark, favicon
+│   ├── css/                # tokens, base, components, sections
+│   ├── js/                 # nav tracking, publications, bootstrap
+│   ├── img/                # portrait, favicon
 │   └── data/               # profile.json + publications.json + scholar-meta.json
 ├── scripts/fetch_scholar.py
 └── .github/workflows/update-scholar.yml
 ```
 
-## Credits
-
-Hero background photo: [“Old Queens - Rutgers University”](https://commons.wikimedia.org/wiki/File:Old_Queens_-_Rutgers_University_(55142886116).jpg) by [ajay_suresh](https://www.flickr.com/people/83136374@N05), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons (resized).

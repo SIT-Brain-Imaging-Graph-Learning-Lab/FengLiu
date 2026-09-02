@@ -1,51 +1,41 @@
 :root {
-  /* Surfaces — pure black with flat Apple-style grays */
-  --bg-0: #000000;
-  --bg-1: #0A0A0A;
-  --bg-2: #111113;
-  --bg-3: #1C1C1E;
+  /* Surfaces — plain white, one very light panel tone */
+  --bg:       #FFFFFF;
+  --bg-panel: #FAFAF8;
 
-  /* Text — Apple-style high contrast */
-  --fg-0: #F5F5F7;   /* primary */
-  --fg-1: #C7C7CC;   /* secondary — deliberately bright for readability */
-  --fg-2: #8E8E93;   /* tertiary, fine print only */
+  /* Ink */
+  --ink:   #141414;   /* primary text, headings */
+  --ink-2: #3A3A3A;   /* body text */
+  --ink-3: #6B6B6B;   /* meta, captions */
+  --ink-4: #9A9A9A;   /* fine print */
 
-  /* Accent — minimal: white is the hover/active color, nothing else */
-  --accent: #FFFFFF;
-  --accent-subtle: #E5E5EA;
+  /* Rutgers scarlet — used sparingly: link hover, small rules, active nav */
+  --accent: #CC0033;
 
-  /* Heritage (Rutgers Block R only — not used as UI accent) */
-  --scarlet: #CC0033;
-
-  /* Hairlines */
-  --hairline:        rgba(245, 245, 247, 0.08);
-  --hairline-strong: rgba(245, 245, 247, 0.18);
+  /* Rules */
+  --rule:        #E4E4E1;
+  --rule-strong: #BFBFBB;
+  --rule-ink:    #141414;
 
   /* Layout */
-  --max: 1200px;
-  --gutter: clamp(1.25rem, 4vw, 3rem);
-  --radius-sm: 6px;
-  --radius: 10px;
-  --radius-lg: 16px;
+  --max: 1040px;
+  --measure: 72ch;
+  --gutter: clamp(1.25rem, 4vw, 2.5rem);
+  --section-gap: clamp(3.5rem, 7vw, 5.5rem);
 
   /* Type scale */
-  --fs-display: clamp(4rem, 10vw, 8.5rem);
-  --fs-h1:      clamp(2.25rem, 4.5vw, 3.75rem);
-  --fs-h2:      clamp(1.4rem, 2.2vw, 1.8rem);
-  --fs-h3:      1.125rem;
-  --fs-body:    1.0625rem;
-  --fs-small:   0.875rem;
-  --fs-mono:    0.75rem;
-
-  /* Motion */
-  --ease: cubic-bezier(.22,.61,.36,1);
-  --ease-out: cubic-bezier(.16,1,.3,1);
-  --dur-fast: 220ms;
-  --dur: 480ms;
-  --dur-slow: 900ms;
+  --fs-name:  clamp(2.25rem, 4.2vw, 3rem);
+  --fs-h2:    clamp(1.55rem, 2.4vw, 1.9rem);
+  --fs-h3:    1.2rem;
+  --fs-body:  1.0625rem;
+  --fs-small: 0.9rem;
+  --fs-meta:  0.8rem;
+  --fs-label: 0.74rem;
 
   /* Fonts */
-  --font-serif: 'Fraunces', 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
-  --font-sans:  'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', system-ui, sans-serif;
-  --font-mono:  'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
+  --font-serif: 'Source Serif 4', 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Georgia, 'Times New Roman', serif;
+  --font-sans:  'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+
+  --ease: cubic-bezier(.25,.1,.25,1);
+  --dur: 160ms;
 }

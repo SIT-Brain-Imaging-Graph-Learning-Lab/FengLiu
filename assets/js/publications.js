@@ -1,15 +1,17 @@
-// Renders publication list from publications.json with year & keyword filters.
-// Titles are NOT linked (per user request) — metadata only.
+// Renders publication list from publications.json with year & topic filters,
+// keyword search, and a "show all" toggle. Titles are not linked (metadata only).
 
 const TOPIC_LABELS = {
   'neuroscience': 'Neuroscience',
-  'ai-health':    'AI × Health',
+  'ai-health':    'AI for Health',
   'dynamics':     'Dynamics & Chaos',
   'optimization': 'Optimization',
   'energy':       'Energy Systems',
   'systems':      'Control Systems',
   'other':        'Other'
 };
+
+const INITIAL_LIMIT = 20;
 
 export async function initPublications(opts) {
   const {
@@ -18,6 +20,7 @@ export async function initPublications(opts) {
     yearSelectEl,
     topicSelectEl,
     countEl,
+    moreEl,
     dataUrl = 'assets/data/publications.json',
     metaUrl = 'assets/data/scholar-meta.json',
     metaTotalEl,
@@ -58,10 +61,13 @@ export async function initPublications(opts) {
       topics.map(t => `<option value="${t}">${TOPIC_LABELS[t] || t}</option>`).join('');
   }
 
+  let showAll = false;
+
   function render() {
     const q = (searchEl?.value || '').trim().toLowerCase();
     const y = yearSelectEl?.value || '';
     const t = topicSelectEl?.value || '';
+    const filtering = Boolean(q || y || t);
 
     const filtered = papers.filter(p => {
       if (y && String(p.year) !== y) return false;
@@ -71,7 +77,20 @@ export async function initPublications(opts) {
       return hay.includes(q);
     }).sort((a, b) => (b.year || 0) - (a.year || 0) || (b.citations || 0) - (a.citations || 0));
 
-    if (countEl) countEl.textContent = `${filtered.length} / ${papers.length} papers`;
+    // Filtered views show everything that matches; the unfiltered list is truncated until expanded.
+    const visible = (showAll || filtering) ? filtered : filtered.slice(0, INITIAL_LIMIT);
+
+    if (countEl) {
+      countEl.textContent = filtering
+        ? `${filtered.length} of ${papers.length} publications`
+        : `${papers.length} publications`;
+    }
+
+    if (moreEl) {
+      const truncated = visible.length < filtered.length;
+      moreEl.hidden = !truncated;
+      if (truncated) moreEl.textContent = `Show all ${filtered.length} publications`;
+    }
 
     if (!listEl) return;
     if (!filtered.length) {
@@ -79,21 +98,24 @@ export async function initPublications(opts) {
       return;
     }
 
-    listEl.innerHTML = filtered.map(p => {
+    listEl.innerHTML = visible.map(p => {
       const title = escapeHtml(p.title);
       const authors = escapeHtml(p.authors || '');
       const venue = escapeHtml(p.venue || '');
       const year = p.year || '';
       const cites = p.citations || 0;
       const citesHtml = cites > 0
-        ? `<div class="pub-item__cites"><strong>${cites}</strong> cites</div>`
+        ? `<div class="pub-item__cites"><strong>${cites}</strong> citation${cites === 1 ? '' : 's'}</div>`
         : `<div class="pub-item__cites"></div>`;
+      const metaParts = [];
+      if (authors) metaParts.push(authors);
+      if (venue) metaParts.push(`<span class="pub-item__venue">${venue}</span>`);
       return `
         <article class="pub-item">
           <div class="pub-item__year">${year}</div>
           <div class="pub-item__main">
             <h4 class="pub-item__title">${title}</h4>
-            <div class="pub-item__meta">${authors}${venue ? ' · <span class="pub-item__venue">' + venue + '</span>' : ''}</div>
+            ${metaParts.length ? `<div class="pub-item__meta">${metaParts.join('. ')}</div>` : ''}
           </div>
           ${citesHtml}
         </article>
@@ -104,6 +126,7 @@ export async function initPublications(opts) {
   searchEl?.addEventListener('input', debounce(render, 140));
   yearSelectEl?.addEventListener('change', render);
   topicSelectEl?.addEventListener('change', render);
+  moreEl?.addEventListener('click', () => { showAll = true; render(); });
   render();
 }
 
