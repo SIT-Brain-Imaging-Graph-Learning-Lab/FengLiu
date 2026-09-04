@@ -36,6 +36,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:M8meJADSprsC"
   },
   {
+    "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
+    "authors": "",
+    "venue": "IEEE Transactions on Artificial Intelligence, 2026",
+    "year": 2026,
+    "citations": 1,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:iWL_APfBKHwC"
+  },
+  {
     "title": "Kinematically feasible path planning and robust predefined performance formation control for MAGVs under mixed uncertainties",
     "authors": "",
     "venue": "Expert Systems with Applications, 131904, 2026",
@@ -88,15 +97,6 @@
     "citations": 0,
     "topic": "ai-health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:2_BaaiyHPJIC"
-  },
-  {
-    "title": "RGPO: Ranking-Guided Preference Optimization for Reliable Clinical Reasoning",
-    "authors": "",
-    "venue": "IEEE Transactions on Artificial Intelligence, 2026",
-    "year": 2026,
-    "citations": 0,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:iWL_APfBKHwC"
   },
   {
     "title": "NeuroNarrator: A Generalist EEG-to-Text Foundation Model for Clinical Interpretation via Spectro-Spatial Grounding and Temporal State-Space Reasoning",
@@ -225,6 +225,15 @@
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:xlVdBZVQT58C"
   },
   {
+    "title": "RPRO: Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning",
+    "authors": "",
+    "venue": "NeurIPS 2025 Workshop GenAI4Health, 2025",
+    "year": 2025,
+    "citations": 1,
+    "topic": "ai-health",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8rLWgkbgOXQC"
+  },
+  {
     "title": "Variational Mixture of Graph Neural Experts for Alzheimer's Disease Biomarker Recognition in EEG Brain Networks",
     "authors": "",
     "venue": "arXiv e-prints, arXiv: 2510.11917, 2025",
@@ -232,15 +241,6 @@
     "citations": 1,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:zfsRRabFVBUC"
-  },
-  {
-    "title": "RPRO: Ranked Preference Reinforcement Optimization for Enhancing Medical QA and Diagnostic Reasoning",
-    "authors": "",
-    "venue": "NeurIPS 2025 Workshop GenAI4Health, 2025",
-    "year": 2025,
-    "citations": 0,
-    "topic": "ai-health",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:8rLWgkbgOXQC"
   },
   {
     "title": "Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records",
@@ -418,7 +418,7 @@
     "authors": "",
     "venue": "Information Sciences 643, 119160, 2023",
     "year": 2023,
-    "citations": 92,
+    "citations": 93,
     "topic": "neuroscience",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:k8to_Y4Q4_EC"
   },
@@ -544,7 +544,7 @@
     "authors": "",
     "venue": "Energy Conversion and Management 252, 115047, 2022",
     "year": 2022,
-    "citations": 103,
+    "citations": 104,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:cOfwuRB03ygC"
   },
@@ -832,7 +832,7 @@
     "authors": "",
     "venue": "IEEE Transactions on Circuits and Systems II: Express Briefs 67 (6), 1129-1133, 2019",
     "year": 2019,
-    "citations": 193,
+    "citations": 194,
     "topic": "dynamics",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:yCjxvIMm6_oC"
   },
@@ -841,7 +841,7 @@
     "authors": "",
     "venue": "Applied Energy 248, 429-445, 2019",
     "year": 2019,
-    "citations": 137,
+    "citations": 138,
     "topic": "optimization",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HVZdbX0AAAAJ&citation_for_view=HVZdbX0AAAAJ:nU66GSXDKhoC"
   },
